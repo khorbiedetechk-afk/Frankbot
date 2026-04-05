@@ -1,0 +1,141 @@
+2026-04-05 16:02:38,411 [INFO]    RSI Buy  < 30 | RSI Sell > 70 | Stop-loss: 2.0%
+2026-04-05 16:10:15,405 [INFO] ✅ Bot initialized. Connected to Binance.
+2026-04-05 16:10:16,336 [INFO] 🌐 Server time: 2026-04-05 16:10:16.070000
+2026-04-05 16:10:16,336 [INFO] 🚀 Starting RSI Bot | Symbol: BTCUSDT | Interval: 15m
+2026-04-05 16:10:16,336 [INFO]    RSI Buy  < 30 | RSI Sell > 70 | Stop-loss: 2.0%
+2026-04-05 16:10:17,821 [INFO] 📊 BTCUSDT | Price: $66,945.12 | RSI: 52.48 | Balance: $2274.73 | Position: NO
+2026-04-05 16:10:17,821 [INFO] ⏳ Waiting... (RSI: 52.48 | Need <30)
+2026-04-05 16:11:19,400 [INFO] 📊 BTCUSDT | Price: $66,943.39 | RSI: 52.35 | Balance: $2274.73 | Position: NO
+2026-04-05 16:11:19,400 [INFO] ⏳ Waiting... (RSI: 52.35 | Need <30)
+2026-04-05 16:12:21,049 [INFO] 📊 BTCUSDT | Price: $66,961.12 | RSI: 53.62 | Balance: $2274.73 | Position: NO
+2026-04-05 16:12:21,064 [INFO] ⏳ Waiting... (RSI: 53.62 | Need <30)
+2026-04-05 16:13:24,277 [INFO] 📊 BTCUSDT | Price: $66,957.97 | RSI: 53.4 | Balance: $2274.73 | Position: NO
+2026-04-05 16:13:24,324 [INFO] ⏳ Waiting... (RSI: 53.4 | Need <30)
+2026-04-05 16:14:26,148 [INFO] 📊 BTCUSDT | Price: $66,957.96 | RSI: 53.4 | Balance: $2274.73 | Position: NO
+2026-04-05 16:14:26,179 [INFO] ⏳ Waiting... (RSI: 53.4 | Need <30)
+2026-04-05 16:15:27,782 [INFO] 📊 BTCUSDT | Price: $66,952.00 | RSI: 53.1 | Balance: $2274.73 | Position: NO
+2026-04-05 16:15:27,782 [INFO] ⏳ Waiting... (RSI: 53.1 | Need <30)
+2026-04-05 16:16:29,856 [INFO] 📊 BTCUSDT | Price: $66,966.08 | RSI: 54.16 | Balance: $2274.73 | Position: NO
+2026-04-05 16:16:29,856 [INFO] ⏳ Waiting... (RSI: 54.16 | Need <30)
+2026-04-05 16:17:33,256 [INFO] 📊 BTCUSDT | Price: $66,989.08 | RSI: 55.78 | Balance: $2274.73 | Position: NO
+2026-04-05 16:17:33,271 [INFO] ⏳ Waiting... (RSI: 55.78 | Need <30)
+2026-04-05 16:18:35,188 [INFO] 📊 BTCUSDT | Price: $66,963.34 | RSI: 53.95 | Balance: $2274.73 | Position: NO
+2026-04-05 16:18:35,202 [INFO] ⏳ Waiting... (RSI: 53.95 | Need <30)
+2026-04-05 16:19:37,100 [INFO] 📊 BTCUSDT | Price: $66,976.71 | RSI: 54.92 | Balance: $2274.73 | Position: NO
+2026-04-05 16:19:37,115 [INFO] ⏳ Waiting... (RSI: 54.92 | Need <30)
+2026-04-05 16:20:38,829 [INFO] 📊 BTCUSDT | Price: $66,982.89 | RSI: 55.35 | Balance: $2274.73 | Position: NO
+2026-04-05 16:20:38,844 [INFO] ⏳ Waiting... (RSI: 55.35 | Need <30)
+2026-04-05 16:21:40,591 [INFO] 📊 BTCUSDT | Price: $66,992.60 | RSI: 56.01 | Balance: $2274.73 | Position: NO
+2026-04-05 16:21:40,638 [INFO] ⏳ Waiting... (RSI: 56.01 | Need <30)
+2026-04-05 16:22:42,283 [INFO] 📊 BTCUSDT | Price: $66,976.54 | RSI: 54.91 | Balance: $2274.73 | Position: NO
+2026-04-05 16:22:42,299 [INFO] ⏳ Waiting... (RSI: 54.91 | Need <30)
+2026-04-05 16:23:44,014 [INFO] 📊 BTCUSDT | Price: $66,962.29 | RSI: 53.88 | Balance: $2274.73 | Position: NO
+2026-04-05 16:23:44,030 [INFO] ⏳ Waiting... (RSI: 53.88 | Need <30)
+2026-04-05 16:24:45,793 [INFO] 📊 BTCUSDT | Price: $66,980.22 | RSI: 55.17 | Balance: $2274.73 | Position: NO
+2026-04-05 16:24:45,824 [INFO] ⏳ Waiting... (RSI: 55.17 | Need <30)
+2026-04-05 16:25:47,472 [INFO] 📊 BTCUSDT | Price: $67,047.30 | RSI: 59.22 | Balance: $2274.73 | Position: NO
+2026-04-05 16:25:47,488 [INFO] ⏳ Waiting... (RSI: 59.22 | Need <30)
+2026-04-05 16:26:49,142 [INFO] 📊 BTCUSDT | Price: $67,313.03 | RSI: 69.2 | Balance: $2274.73 | Position: NO
+2026-04-05 16:41:04,816 [INFO] ✅ Bot initialized. Connected to Binance.
+2026-04-05 16:41:05,847 [INFO] 🌐 Server time: 2026-04-05 16:41:05.505000
+2026-04-05 16:41:05,864 [INFO] 🚀 Starting RSI Bot | Symbol: BTCUSDT | Interval: 5m
+2026-04-05 16:41:05,865 [INFO]    RSI Buy  < 30 | RSI Sell > 70 | Stop-loss: 2.0%
+2026-04-05 16:41:07,430 [INFO] 📊 BTCUSDT | Price: $67,364.92 | RSI: 71.07 | Balance: $2274.73 | Position: NO
+2026-04-05 16:41:07,430 [INFO] ⏳ Waiting... (RSI: 71.07 | Need <30)
+2026-04-05 16:42:09,000 [INFO] 📊 BTCUSDT | Price: $67,397.74 | RSI: 74.02 | Balance: $2274.73 | Position: NO
+2026-04-05 16:42:09,000 [INFO] ⏳ Waiting... (RSI: 74.02 | Need <30)
+2026-04-05 16:43:11,838 [INFO] 📊 BTCUSDT | Price: $67,427.55 | RSI: 75.16 | Balance: $2274.73 | Position: NO
+2026-04-05 16:43:11,850 [INFO] ⏳ Waiting... (RSI: 75.16 | Need <30)
+2026-04-05 16:44:13,471 [INFO] 📊 BTCUSDT | Price: $67,428.94 | RSI: 75.21 | Balance: $2274.73 | Position: NO
+2026-04-05 16:44:13,471 [INFO] ⏳ Waiting... (RSI: 75.21 | Need <30)
+2026-04-05 16:45:15,670 [INFO] 📊 BTCUSDT | Price: $67,437.55 | RSI: 75.47 | Balance: $2274.73 | Position: NO
+2026-04-05 16:45:15,686 [INFO] ⏳ Waiting... (RSI: 75.47 | Need <30)
+2026-04-05 16:46:17,926 [INFO] 📊 BTCUSDT | Price: $67,362.19 | RSI: 68.72 | Balance: $2274.73 | Position: NO
+2026-04-05 16:46:18,060 [INFO] ⏳ Waiting... (RSI: 68.72 | Need <30)
+2026-04-05 16:47:19,712 [INFO] 📊 BTCUSDT | Price: $67,336.69 | RSI: 66.7 | Balance: $2274.73 | Position: NO
+2026-04-05 16:47:20,093 [INFO] ⏳ Waiting... (RSI: 66.7 | Need <30)
+2026-04-05 16:48:21,679 [INFO] 📊 BTCUSDT | Price: $67,371.99 | RSI: 69.54 | Balance: $2274.73 | Position: NO
+2026-04-05 16:48:21,694 [INFO] ⏳ Waiting... (RSI: 69.54 | Need <30)
+2026-04-05 16:49:24,434 [INFO] 📊 BTCUSDT | Price: $67,373.59 | RSI: 69.67 | Balance: $2274.73 | Position: NO
+2026-04-05 16:49:24,467 [INFO] ⏳ Waiting... (RSI: 69.67 | Need <30)
+2026-04-05 16:50:26,053 [INFO] 📊 BTCUSDT | Price: $67,396.63 | RSI: 70.55 | Balance: $2274.73 | Position: NO
+2026-04-05 16:50:26,053 [INFO] ⏳ Waiting... (RSI: 70.55 | Need <30)
+2026-04-05 16:51:27,670 [INFO] 📊 BTCUSDT | Price: $67,424.25 | RSI: 71.54 | Balance: $2274.73 | Position: NO
+2026-04-05 16:51:27,685 [INFO] ⏳ Waiting... (RSI: 71.54 | Need <30)
+2026-04-05 16:52:29,541 [INFO] 📊 BTCUSDT | Price: $67,375.11 | RSI: 69.73 | Balance: $2274.73 | Position: NO
+2026-04-05 16:52:29,554 [INFO] ⏳ Waiting... (RSI: 69.73 | Need <30)
+2026-04-05 16:53:31,141 [INFO] 📊 BTCUSDT | Price: $67,389.14 | RSI: 70.27 | Balance: $2274.73 | Position: NO
+2026-04-05 16:53:31,145 [INFO] ⏳ Waiting... (RSI: 70.27 | Need <30)
+2026-04-05 16:54:32,746 [INFO] 📊 BTCUSDT | Price: $67,400.00 | RSI: 70.68 | Balance: $2274.73 | Position: NO
+2026-04-05 16:54:32,747 [INFO] ⏳ Waiting... (RSI: 70.68 | Need <30)
+2026-04-05 16:55:34,306 [INFO] 📊 BTCUSDT | Price: $67,323.48 | RSI: 65.2 | Balance: $2274.73 | Position: NO
+2026-04-05 16:55:34,371 [INFO] ⏳ Waiting... (RSI: 65.2 | Need <30)
+2026-04-05 16:56:36,147 [INFO] 📊 BTCUSDT | Price: $67,323.49 | RSI: 65.2 | Balance: $2274.73 | Position: NO
+2026-04-05 16:56:36,178 [INFO] ⏳ Waiting... (RSI: 65.2 | Need <30)
+2026-04-05 16:57:37,992 [INFO] 📊 BTCUSDT | Price: $67,343.69 | RSI: 66.63 | Balance: $2274.73 | Position: NO
+2026-04-05 16:57:38,007 [INFO] ⏳ Waiting... (RSI: 66.63 | Need <30)
+2026-04-05 16:58:39,819 [INFO] 📊 BTCUSDT | Price: $67,283.59 | RSI: 61.97 | Balance: $2274.73 | Position: NO
+2026-04-05 16:58:39,865 [INFO] ⏳ Waiting... (RSI: 61.97 | Need <30)
+2026-04-05 16:59:41,470 [INFO] 📊 BTCUSDT | Price: $67,300.19 | RSI: 63.27 | Balance: $2274.73 | Position: NO
+2026-04-05 16:59:41,501 [INFO] ⏳ Waiting... (RSI: 63.27 | Need <30)
+2026-04-05 17:00:43,996 [INFO] 📊 BTCUSDT | Price: $67,333.36 | RSI: 65.09 | Balance: $2274.73 | Position: NO
+2026-04-05 17:00:44,105 [INFO] ⏳ Waiting... (RSI: 65.09 | Need <30)
+2026-04-05 17:01:47,416 [INFO] 📊 BTCUSDT | Price: $67,340.82 | RSI: 65.43 | Balance: $2274.73 | Position: NO
+2026-04-05 17:01:47,416 [INFO] ⏳ Waiting... (RSI: 65.43 | Need <30)
+2026-04-05 17:02:49,429 [INFO] 📊 BTCUSDT | Price: $67,348.90 | RSI: 65.79 | Balance: $2274.73 | Position: NO
+2026-04-05 17:02:49,452 [INFO] ⏳ Waiting... (RSI: 65.79 | Need <30)
+2026-04-05 17:15:46,225 [INFO] ✅ Bot initialized. Connected to Binance.
+2026-04-05 17:15:47,275 [INFO] 🌐 Server time: 2026-04-05 17:15:46.905000
+2026-04-05 17:15:47,275 [INFO] 🚀 Starting RSI Bot | Symbol: BTCUSDT | Interval: 5m
+2026-04-05 17:15:47,275 [INFO]    RSI Buy  < 30 | RSI Sell > 70 | Stop-loss: 2.0%
+2026-04-05 17:15:48,812 [INFO] 📊 BTCUSDT | Price: $67,323.48 | RSI: 62.21 | Balance: $2274.73 | Position: NO
+2026-04-05 17:15:48,812 [INFO] ⏳ Waiting... (RSI: 62.21 | Need <30)
+2026-04-05 17:16:50,933 [INFO] 📊 BTCUSDT | Price: $67,323.48 | RSI: 62.21 | Balance: $2274.73 | Position: NO
+2026-04-05 17:16:50,940 [INFO] ⏳ Waiting... (RSI: 62.21 | Need <30)
+2026-04-05 17:17:52,675 [INFO] 📊 BTCUSDT | Price: $67,326.40 | RSI: 62.37 | Balance: $2274.73 | Position: NO
+2026-04-05 17:17:52,675 [INFO] ⏳ Waiting... (RSI: 62.37 | Need <30)
+2026-04-05 17:18:54,387 [INFO] 📊 BTCUSDT | Price: $67,347.00 | RSI: 63.43 | Balance: $2274.73 | Position: NO
+2026-04-05 17:18:54,785 [INFO] ⏳ Waiting... (RSI: 63.43 | Need <30)
+2026-04-05 17:19:56,532 [INFO] 📊 BTCUSDT | Price: $67,344.12 | RSI: 63.28 | Balance: $2274.73 | Position: NO
+2026-04-05 17:19:56,565 [INFO] ⏳ Waiting... (RSI: 63.28 | Need <30)
+2026-04-05 17:20:58,708 [INFO] 📊 BTCUSDT | Price: $67,356.00 | RSI: 63.9 | Balance: $2274.73 | Position: NO
+2026-04-05 17:20:58,742 [INFO] ⏳ Waiting... (RSI: 63.9 | Need <30)
+2026-04-05 17:22:00,778 [INFO] 📊 BTCUSDT | Price: $67,363.74 | RSI: 64.3 | Balance: $2274.73 | Position: NO
+2026-04-05 17:22:00,797 [INFO] ⏳ Waiting... (RSI: 64.3 | Need <30)
+2026-04-05 17:23:03,026 [INFO] 📊 BTCUSDT | Price: $67,361.63 | RSI: 64.73 | Balance: $2274.73 | Position: NO
+2026-04-05 17:23:03,042 [INFO] ⏳ Waiting... (RSI: 64.73 | Need <30)
+2026-04-05 17:24:06,400 [INFO] ✅ Bot initialized. Connected to Binance.
+2026-04-05 17:24:07,375 [INFO] 🌐 Server time: 2026-04-05 17:24:06.995000
+2026-04-05 17:24:07,391 [INFO] 🚀 Starting RSI Bot | Symbol: BTCUSDT | Interval: 15m
+2026-04-05 17:24:07,391 [INFO]    RSI Buy  < 30 | RSI Sell > 70 | Stop-loss: 2.0% | Take-profit: 3.0%
+2026-04-05 17:24:08,922 [INFO] 📊 BTCUSDT | Price: $67,367.01 | RSI: 65.06 | Balance: $2274.73 | Position: NO
+2026-04-05 17:24:08,922 [INFO] ⏳ Waiting... (RSI: 65.06 | Need <30)
+2026-04-05 17:25:10,588 [INFO] 📊 BTCUSDT | Price: $67,370.55 | RSI: 65.17 | Balance: $2274.73 | Position: NO
+2026-04-05 17:25:10,603 [INFO] ⏳ Waiting... (RSI: 65.17 | Need <30)
+2026-04-05 17:26:13,121 [INFO] 📊 BTCUSDT | Price: $67,363.98 | RSI: 64.96 | Balance: $2274.73 | Position: NO
+2026-04-05 17:26:13,231 [INFO] ⏳ Waiting... (RSI: 64.96 | Need <30)
+2026-04-05 17:27:15,225 [INFO] 📊 BTCUSDT | Price: $67,367.99 | RSI: 65.09 | Balance: $2274.73 | Position: NO
+2026-04-05 17:27:15,366 [INFO] ⏳ Waiting... (RSI: 65.09 | Need <30)
+2026-04-05 17:28:17,834 [INFO] 📊 BTCUSDT | Price: $67,371.55 | RSI: 65.2 | Balance: $2274.73 | Position: NO
+2026-04-05 17:28:17,951 [INFO] ⏳ Waiting... (RSI: 65.2 | Need <30)
+2026-04-05 17:29:19,669 [INFO] 📊 BTCUSDT | Price: $67,336.00 | RSI: 64.05 | Balance: $2274.73 | Position: NO
+2026-04-05 17:29:19,674 [INFO] ⏳ Waiting... (RSI: 64.05 | Need <30)
+2026-04-05 17:30:22,423 [INFO] 📊 BTCUSDT | Price: $67,327.54 | RSI: 63.44 | Balance: $2274.73 | Position: NO
+2026-04-05 17:30:22,442 [INFO] ⏳ Waiting... (RSI: 63.44 | Need <30)
+2026-04-05 17:31:24,229 [INFO] 📊 BTCUSDT | Price: $67,340.00 | RSI: 64.22 | Balance: $2274.73 | Position: NO
+2026-04-05 17:31:24,244 [INFO] ⏳ Waiting... (RSI: 64.22 | Need <30)
+2026-04-05 17:32:26,913 [INFO] 📊 BTCUSDT | Price: $67,390.51 | RSI: 65.93 | Balance: $2274.73 | Position: NO
+2026-04-05 17:32:26,913 [INFO] ⏳ Waiting... (RSI: 65.93 | Need <30)
+2026-04-05 17:33:28,668 [INFO] 📊 BTCUSDT | Price: $67,397.40 | RSI: 66.15 | Balance: $2274.73 | Position: NO
+2026-04-05 17:33:28,683 [INFO] ⏳ Waiting... (RSI: 66.15 | Need <30)
+2026-04-05 17:34:30,598 [INFO] 📊 BTCUSDT | Price: $67,377.85 | RSI: 65.52 | Balance: $2274.73 | Position: NO
+2026-04-05 17:34:30,618 [INFO] ⏳ Waiting... (RSI: 65.52 | Need <30)
+2026-04-05 17:35:34,518 [INFO] 📊 BTCUSDT | Price: $67,364.07 | RSI: 65.06 | Balance: $2274.73 | Position: NO
+2026-04-05 17:35:34,644 [INFO] ⏳ Waiting... (RSI: 65.06 | Need <30)
+2026-04-05 17:36:36,604 [INFO] 📊 BTCUSDT | Price: $67,333.37 | RSI: 63.78 | Balance: $2274.73 | Position: NO
+2026-04-05 17:36:36,638 [INFO] ⏳ Waiting... (RSI: 63.78 | Need <30)
+2026-04-05 17:37:38,362 [ERROR] ❌ Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2026-04-05 17:38:40,577 [ERROR] ❌ Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2026-04-05 17:39:42,617 [ERROR] ❌ Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2026-04-05 17:40:44,385 [ERROR] ❌ Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2026-04-05 17:41:47,235 [ERROR] ❌ Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.

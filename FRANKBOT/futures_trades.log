@@ -1,0 +1,517 @@
+2026-04-05 17:50:18,288 [INFO] ✅ Futures Bot initialized.
+2026-04-05 17:50:22,537 [ERROR] ❌ Setup failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 154.161.131.123
+2026-04-05 17:56:09,515 [INFO] ✅ Futures Bot initialized.
+2026-04-05 17:56:13,534 [INFO] ⚙️  Leverage set to 2x on BTCUSDT
+2026-04-05 17:56:14,066 [INFO] 🌐 Server time: 2026-04-05 17:56:13.571000
+2026-04-05 17:56:14,081 [INFO] 🚀 Futures Bot started | BTCUSDT | 2x leverage
+2026-04-05 17:56:14,081 [INFO]    RSI LONG < 30 | RSI SHORT > 70
+2026-04-05 17:56:14,081 [INFO]    Stop-loss: 2.0% | Take-profit: 3.0%
+2026-04-05 17:56:16,049 [INFO] 📊 BTCUSDT | Price: $67,170.00 | RSI: 56.57 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 17:56:16,065 [INFO] ⏳ No signal. Waiting... (RSI: 56.57)
+2026-04-05 17:57:17,766 [INFO] 📊 BTCUSDT | Price: $67,150.70 | RSI: 55.11 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 17:57:17,795 [INFO] ⏳ No signal. Waiting... (RSI: 55.11)
+2026-04-05 17:58:19,717 [INFO] 📊 BTCUSDT | Price: $67,169.80 | RSI: 56.18 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 17:58:19,785 [INFO] ⏳ No signal. Waiting... (RSI: 56.18)
+2026-04-05 17:59:22,181 [INFO] 📊 BTCUSDT | Price: $67,181.40 | RSI: 56.69 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 17:59:22,198 [INFO] ⏳ No signal. Waiting... (RSI: 56.69)
+2026-04-05 18:00:25,751 [INFO] 📊 BTCUSDT | Price: $67,178.90 | RSI: 56.68 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:00:25,811 [INFO] ⏳ No signal. Waiting... (RSI: 56.68)
+2026-04-05 18:01:29,758 [INFO] 📊 BTCUSDT | Price: $67,180.10 | RSI: 57.09 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:01:29,889 [INFO] ⏳ No signal. Waiting... (RSI: 57.09)
+2026-04-05 18:02:31,537 [INFO] 📊 BTCUSDT | Price: $67,178.30 | RSI: 56.65 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:02:31,556 [INFO] ⏳ No signal. Waiting... (RSI: 56.65)
+2026-04-05 18:03:34,096 [INFO] 📊 BTCUSDT | Price: $67,185.10 | RSI: 56.64 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:03:34,138 [INFO] ⏳ No signal. Waiting... (RSI: 56.64)
+2026-04-05 18:04:36,299 [INFO] 📊 BTCUSDT | Price: $67,191.60 | RSI: 57.25 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:04:36,390 [INFO] ⏳ No signal. Waiting... (RSI: 57.25)
+2026-04-05 18:05:38,110 [INFO] 📊 BTCUSDT | Price: $67,209.00 | RSI: 57.38 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:05:38,110 [INFO] ⏳ No signal. Waiting... (RSI: 57.38)
+2026-04-05 18:06:39,740 [INFO] 📊 BTCUSDT | Price: $67,209.00 | RSI: 57.28 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:06:39,755 [INFO] ⏳ No signal. Waiting... (RSI: 57.28)
+2026-04-05 18:07:41,464 [INFO] 📊 BTCUSDT | Price: $67,230.70 | RSI: 58.93 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:07:41,464 [INFO] ⏳ No signal. Waiting... (RSI: 58.93)
+2026-04-05 18:08:43,117 [INFO] 📊 BTCUSDT | Price: $67,240.50 | RSI: 59.33 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:08:43,121 [INFO] ⏳ No signal. Waiting... (RSI: 59.33)
+2026-04-05 18:09:45,057 [INFO] 📊 BTCUSDT | Price: $67,249.60 | RSI: 59.71 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:09:45,071 [INFO] ⏳ No signal. Waiting... (RSI: 59.71)
+2026-04-05 18:10:46,721 [INFO] 📊 BTCUSDT | Price: $67,239.10 | RSI: 59.71 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:10:46,729 [INFO] ⏳ No signal. Waiting... (RSI: 59.71)
+2026-04-05 18:11:48,261 [INFO] 📊 BTCUSDT | Price: $67,256.10 | RSI: 59.95 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:11:48,314 [INFO] ⏳ No signal. Waiting... (RSI: 59.95)
+2026-04-05 18:12:49,921 [INFO] 📊 BTCUSDT | Price: $67,241.80 | RSI: 59.38 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:12:49,937 [INFO] ⏳ No signal. Waiting... (RSI: 59.38)
+2026-04-05 18:13:51,535 [INFO] 📊 BTCUSDT | Price: $67,246.70 | RSI: 59.57 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:13:51,535 [INFO] ⏳ No signal. Waiting... (RSI: 59.57)
+2026-04-05 18:14:53,432 [INFO] 📊 BTCUSDT | Price: $67,253.90 | RSI: 59.86 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:14:53,432 [INFO] ⏳ No signal. Waiting... (RSI: 59.86)
+2026-04-05 18:15:54,977 [INFO] 📊 BTCUSDT | Price: $67,255.00 | RSI: 59.9 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:15:54,992 [INFO] ⏳ No signal. Waiting... (RSI: 59.9)
+2026-04-05 18:16:56,540 [INFO] 📊 BTCUSDT | Price: $67,253.80 | RSI: 59.86 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:16:56,540 [INFO] ⏳ No signal. Waiting... (RSI: 59.86)
+2026-04-05 18:17:58,332 [INFO] 📊 BTCUSDT | Price: $67,225.10 | RSI: 58.6 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:17:58,348 [INFO] ⏳ No signal. Waiting... (RSI: 58.6)
+2026-04-05 18:18:59,960 [INFO] 📊 BTCUSDT | Price: $67,212.20 | RSI: 57.34 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:18:59,976 [INFO] ⏳ No signal. Waiting... (RSI: 57.34)
+2026-04-05 18:20:01,704 [INFO] 📊 BTCUSDT | Price: $67,177.20 | RSI: 55.85 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:20:01,720 [INFO] ⏳ No signal. Waiting... (RSI: 55.85)
+2026-04-05 18:21:03,530 [INFO] 📊 BTCUSDT | Price: $67,166.90 | RSI: 54.82 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 18:21:03,530 [INFO] ⏳ No signal. Waiting... (RSI: 54.82)
+2026-04-05 18:37:02,935 [ERROR] ❌ Unexpected error: HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+Traceback (most recent call last):
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1395, in getresponse
+    response.begin()
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 325, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 286, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1314, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1166, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 645, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\futures_bot.py", line 229, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\futures_bot.py", line 93, in get_klines
+    klines = self.client.futures_klines(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 7485, in futures_klines
+    return self._request_futures_api("get", "klines", data=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 144, in _request_futures_api
+    return self._request(method, uri, signed, force_params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 93, in _request
+    self.response = getattr(self.session, method)(uri, headers=headers, data=data, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 605, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 691, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+2026-04-05 18:38:06,645 [ERROR] ❌ Unexpected error: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 211, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 645, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\futures_bot.py", line 229, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\futures_bot.py", line 93, in get_klines
+    klines = self.client.futures_klines(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 7485, in futures_klines
+    return self._request_futures_api("get", "klines", data=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 144, in _request_futures_api
+    return self._request(method, uri, signed, force_params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 93, in _request
+    self.response = getattr(self.session, method)(uri, headers=headers, data=data, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 605, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 678, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-05 18:39:06,816 [ERROR] ❌ Unexpected error: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 211, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 645, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\futures_bot.py", line 229, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\futures_bot.py", line 93, in get_klines
+    klines = self.client.futures_klines(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 7485, in futures_klines
+    return self._request_futures_api("get", "klines", data=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 144, in _request_futures_api
+    return self._request(method, uri, signed, force_params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 93, in _request
+    self.response = getattr(self.session, method)(uri, headers=headers, data=data, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 605, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 678, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-05 20:18:17,778 [INFO] ✅ Futures Bot initialized.
+2026-04-05 20:18:21,855 [INFO] ⚙️  Leverage set to 2x on BTCUSDT
+2026-04-05 20:18:22,386 [INFO] 🌐 Server time: 2026-04-05 20:18:21.457000
+2026-04-05 20:18:22,386 [INFO] 🚀 Futures Bot started | BTCUSDT | 2x leverage
+2026-04-05 20:18:22,386 [INFO]    RSI LONG < 30 | RSI SHORT > 70
+2026-04-05 20:18:22,386 [INFO]    Stop-loss: 2.0% | Take-profit: 3.0%
+2026-04-05 20:18:24,425 [INFO] 📊 BTCUSDT | Price: $67,416.90 | RSI: 63.38 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 20:18:24,425 [INFO] ⏳ No signal. Waiting... (RSI: 63.38)
+2026-04-05 20:19:26,238 [INFO] 📊 BTCUSDT | Price: $67,470.90 | RSI: 72.66 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 20:19:26,252 [INFO] 📈 RSI overbought (72.66) → opening SHORT
+2026-04-05 20:19:26,768 [ERROR] ❌ Open SHORT failed: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-04-05 20:20:28,398 [INFO] 📊 BTCUSDT | Price: $67,493.40 | RSI: 72.43 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 20:20:28,414 [INFO] 📈 RSI overbought (72.43) → opening SHORT
+2026-04-05 20:20:28,883 [ERROR] ❌ Open SHORT failed: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-04-05 20:21:31,872 [INFO] 📊 BTCUSDT | Price: $67,472.90 | RSI: 67.58 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 20:21:31,976 [INFO] ⏳ No signal. Waiting... (RSI: 67.58)
+2026-04-05 20:22:33,678 [INFO] 📊 BTCUSDT | Price: $67,477.50 | RSI: 67.93 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 20:22:33,696 [INFO] ⏳ No signal. Waiting... (RSI: 67.93)
+2026-04-05 20:23:36,313 [INFO] 📊 BTCUSDT | Price: $67,505.60 | RSI: 73.45 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 20:23:36,328 [INFO] 📈 RSI overbought (73.45) → opening SHORT
+2026-04-05 20:23:36,778 [ERROR] ❌ Open SHORT failed: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-04-05 20:24:38,299 [INFO] 📊 BTCUSDT | Price: $67,482.90 | RSI: 66.26 | Balance: $0.00 USDT | Position: NONE
+2026-04-05 20:24:38,317 [INFO] ⏳ No signal. Waiting... (RSI: 66.26)
+2026-04-05 20:26:40,903 [INFO] ✅ Futures Bot initialized.
+2026-04-05 20:26:45,537 [INFO] ⚙️  Leverage set to 2x on BTCUSDT
+2026-04-05 20:26:46,002 [INFO] 🌐 Server time: 2026-04-05 20:26:45.111000
+2026-04-05 20:26:46,002 [INFO] 🚀 Futures Bot started | BTCUSDT | 2x leverage
+2026-04-05 20:26:46,041 [INFO]    RSI LONG < 30 | RSI SHORT > 70
+2026-04-05 20:26:46,045 [INFO]    Stop-loss: 2.0% | Take-profit: 3.0%
+2026-04-05 20:26:48,692 [INFO] 📊 BTCUSDT | Price: $67,485.30 | RSI: 69.95 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:26:48,693 [INFO] ⏳ No signal. Waiting... (RSI: 69.95)
+2026-04-05 20:27:50,272 [INFO] 📊 BTCUSDT | Price: $67,453.40 | RSI: 60.59 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:27:50,291 [INFO] ⏳ No signal. Waiting... (RSI: 60.59)
+2026-04-05 20:28:51,864 [INFO] 📊 BTCUSDT | Price: $67,438.20 | RSI: 50.94 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:28:51,876 [INFO] ⏳ No signal. Waiting... (RSI: 50.94)
+2026-04-05 20:29:54,104 [INFO] 📊 BTCUSDT | Price: $67,435.30 | RSI: 50.3 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:29:54,128 [INFO] ⏳ No signal. Waiting... (RSI: 50.3)
+2026-04-05 20:30:57,657 [INFO] 📊 BTCUSDT | Price: $67,427.20 | RSI: 49.15 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:30:57,657 [INFO] ⏳ No signal. Waiting... (RSI: 49.15)
+2026-04-05 20:31:59,485 [INFO] 📊 BTCUSDT | Price: $67,418.40 | RSI: 46.87 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:31:59,500 [INFO] ⏳ No signal. Waiting... (RSI: 46.87)
+2026-04-05 20:33:01,102 [INFO] 📊 BTCUSDT | Price: $67,401.90 | RSI: 44.54 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:33:01,118 [INFO] ⏳ No signal. Waiting... (RSI: 44.54)
+2026-04-05 20:34:02,835 [INFO] 📊 BTCUSDT | Price: $67,414.40 | RSI: 45.52 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:34:02,851 [INFO] ⏳ No signal. Waiting... (RSI: 45.52)
+2026-04-05 20:35:05,299 [INFO] 📊 BTCUSDT | Price: $67,414.50 | RSI: 46.99 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:35:05,330 [INFO] ⏳ No signal. Waiting... (RSI: 46.99)
+2026-04-05 20:36:06,962 [INFO] 📊 BTCUSDT | Price: $67,398.00 | RSI: 42.4 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:36:06,962 [INFO] ⏳ No signal. Waiting... (RSI: 42.4)
+2026-04-05 20:37:09,125 [INFO] 📊 BTCUSDT | Price: $67,389.10 | RSI: 40.27 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:37:09,125 [INFO] ⏳ No signal. Waiting... (RSI: 40.27)
+2026-04-05 20:38:11,166 [INFO] 📊 BTCUSDT | Price: $67,354.20 | RSI: 37.78 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:38:11,182 [INFO] ⏳ No signal. Waiting... (RSI: 37.78)
+2026-04-05 20:39:12,764 [INFO] 📊 BTCUSDT | Price: $67,306.70 | RSI: 26.23 | Balance: $149.97 USDT | Position: NONE
+2026-04-05 20:39:12,780 [INFO] 📉 RSI oversold (26.23) → opening LONG
+2026-04-05 20:39:13,685 [INFO] 🟢 LONG  opened | Entry: $67,306.70 | SL: $65,960.57 | TP: $69,325.90
+2026-04-05 20:40:15,588 [INFO] 📊 BTCUSDT | Price: $67,298.00 | RSI: 25.38 | Balance: $82.59 USDT | Position: LONG
+2026-04-05 20:41:17,217 [INFO] 📊 BTCUSDT | Price: $67,304.20 | RSI: 26.89 | Balance: $82.59 USDT | Position: LONG
+2026-04-05 20:42:18,816 [INFO] 📊 BTCUSDT | Price: $67,289.70 | RSI: 26.51 | Balance: $82.58 USDT | Position: LONG
+2026-04-05 20:43:20,547 [INFO] 📊 BTCUSDT | Price: $67,255.10 | RSI: 23.19 | Balance: $82.55 USDT | Position: LONG
+2026-04-05 20:44:22,155 [INFO] 📊 BTCUSDT | Price: $67,262.20 | RSI: 22.29 | Balance: $82.55 USDT | Position: LONG
+2026-04-05 21:47:01,262 [INFO] 📊 BTCUSDT | Price: $67,592.10 | RSI: 63.3 | Balance: $82.87 USDT | Position: LONG
+2026-04-05 21:48:02,793 [INFO] 📊 BTCUSDT | Price: $67,580.10 | RSI: 64.1 | Balance: $82.85 USDT | Position: LONG
+2026-04-05 21:49:04,421 [INFO] 📊 BTCUSDT | Price: $67,617.00 | RSI: 66.0 | Balance: $82.90 USDT | Position: LONG
+2026-04-05 21:50:06,058 [INFO] 📊 BTCUSDT | Price: $67,630.00 | RSI: 67.36 | Balance: $82.92 USDT | Position: LONG
+2026-04-05 21:51:07,670 [INFO] 📊 BTCUSDT | Price: $67,607.10 | RSI: 61.58 | Balance: $82.90 USDT | Position: LONG
+2026-04-05 21:52:09,389 [INFO] 📊 BTCUSDT | Price: $67,602.10 | RSI: 61.63 | Balance: $82.89 USDT | Position: LONG
+2026-04-05 21:53:11,333 [INFO] 📊 BTCUSDT | Price: $67,608.70 | RSI: 58.5 | Balance: $82.90 USDT | Position: LONG
+2026-04-05 21:54:12,876 [INFO] 📊 BTCUSDT | Price: $67,590.60 | RSI: 59.04 | Balance: $82.88 USDT | Position: LONG
+2026-04-05 21:55:14,970 [INFO] 📊 BTCUSDT | Price: $67,621.30 | RSI: 63.82 | Balance: $82.91 USDT | Position: LONG
+2026-04-05 21:56:16,592 [INFO] 📊 BTCUSDT | Price: $67,619.00 | RSI: 63.17 | Balance: $82.91 USDT | Position: LONG
+2026-04-05 21:57:18,285 [INFO] 📊 BTCUSDT | Price: $67,618.00 | RSI: 63.02 | Balance: $82.91 USDT | Position: LONG
+2026-04-05 21:58:20,187 [INFO] 📊 BTCUSDT | Price: $67,611.40 | RSI: 61.13 | Balance: $82.90 USDT | Position: LONG
+2026-04-05 21:59:23,964 [INFO] 📊 BTCUSDT | Price: $67,605.00 | RSI: 57.9 | Balance: $82.89 USDT | Position: LONG
+2026-04-05 22:00:25,899 [INFO] 📊 BTCUSDT | Price: $67,622.50 | RSI: 60.56 | Balance: $82.91 USDT | Position: LONG
+2026-04-05 22:01:28,173 [INFO] 📊 BTCUSDT | Price: $67,577.10 | RSI: 50.97 | Balance: $82.87 USDT | Position: LONG
+2026-04-05 22:02:31,993 [INFO] 📊 BTCUSDT | Price: $67,550.20 | RSI: 50.27 | Balance: $82.84 USDT | Position: LONG
+2026-04-05 22:03:34,384 [INFO] 📊 BTCUSDT | Price: $67,553.10 | RSI: 46.6 | Balance: $82.84 USDT | Position: LONG
+2026-04-05 22:04:36,840 [INFO] 📊 BTCUSDT | Price: $67,587.50 | RSI: 53.7 | Balance: $82.87 USDT | Position: LONG
+2026-04-05 22:05:39,418 [INFO] 📊 BTCUSDT | Price: $67,599.40 | RSI: 53.39 | Balance: $82.89 USDT | Position: LONG
+2026-04-05 22:06:49,030 [INFO] 📊 BTCUSDT | Price: $67,593.40 | RSI: 53.52 | Balance: $82.88 USDT | Position: LONG
+2026-04-05 22:07:51,379 [INFO] 📊 BTCUSDT | Price: $67,578.20 | RSI: 50.15 | Balance: $82.87 USDT | Position: LONG
+2026-04-05 22:08:55,422 [INFO] 📊 BTCUSDT | Price: $67,593.40 | RSI: 52.64 | Balance: $82.88 USDT | Position: LONG
+2026-04-05 22:09:57,805 [INFO] 📊 BTCUSDT | Price: $67,593.40 | RSI: 52.91 | Balance: $82.88 USDT | Position: LONG
+2026-04-05 22:11:00,276 [INFO] 📊 BTCUSDT | Price: $67,610.30 | RSI: 54.61 | Balance: $82.90 USDT | Position: LONG
+2026-04-05 22:12:02,679 [INFO] 📊 BTCUSDT | Price: $67,577.90 | RSI: 49.12 | Balance: $82.87 USDT | Position: LONG
+2026-04-05 22:13:13,214 [INFO] 📊 BTCUSDT | Price: $67,412.20 | RSI: 29.13 | Balance: $82.70 USDT | Position: LONG
+2026-04-05 22:14:15,778 [INFO] 📊 BTCUSDT | Price: $67,500.00 | RSI: 38.26 | Balance: $82.79 USDT | Position: LONG
+2026-04-05 22:15:26,010 [ERROR] ❌ Unexpected error: HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+Traceback (most recent call last):
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1395, in getresponse
+    response.begin()
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 325, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 286, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1314, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1166, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 645, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\futures_bot.py", line 229, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\futures_bot.py", line 93, in get_klines
+    klines = self.client.futures_klines(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 7485, in futures_klines
+    return self._request_futures_api("get", "klines", data=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 144, in _request_futures_api
+    return self._request(method, uri, signed, force_params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\binance\client.py", line 93, in _request
+    self.response = getattr(self.session, method)(uri, headers=headers, data=data, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 605, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 691, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+2026-04-05 22:16:30,631 [INFO] 📊 BTCUSDT | Price: $67,488.60 | RSI: 37.87 | Balance: $82.78 USDT | Position: LONG
+2026-04-05 22:17:32,362 [INFO] 📊 BTCUSDT | Price: $67,518.40 | RSI: 40.97 | Balance: $82.81 USDT | Position: LONG
+2026-04-05 22:18:34,087 [INFO] 📊 BTCUSDT | Price: $67,484.00 | RSI: 38.33 | Balance: $82.78 USDT | Position: LONG
+2026-04-05 22:19:35,935 [INFO] 📊 BTCUSDT | Price: $67,480.00 | RSI: 37.93 | Balance: $82.77 USDT | Position: LONG
+2026-04-05 22:20:37,516 [INFO] 📊 BTCUSDT | Price: $67,469.60 | RSI: 36.47 | Balance: $82.76 USDT | Position: LONG
+2026-04-05 22:21:39,221 [INFO] 📊 BTCUSDT | Price: $67,489.70 | RSI: 40.31 | Balance: $82.78 USDT | Position: LONG
+2026-04-05 22:22:41,164 [INFO] 📊 BTCUSDT | Price: $67,487.40 | RSI: 40.99 | Balance: $82.77 USDT | Position: LONG
+2026-04-05 22:23:54,942 [INFO] 📊 BTCUSDT | Price: $67,460.40 | RSI: 36.29 | Balance: $82.75 USDT | Position: LONG
+2026-04-05 22:24:58,700 [INFO] 📊 BTCUSDT | Price: $67,456.70 | RSI: 35.71 | Balance: $82.75 USDT | Position: LONG
+2026-04-05 22:26:03,142 [INFO] 📊 BTCUSDT | Price: $67,429.30 | RSI: 31.7 | Balance: $82.72 USDT | Position: LONG
+2026-04-05 22:27:04,997 [INFO] 📊 BTCUSDT | Price: $67,414.90 | RSI: 29.78 | Balance: $82.70 USDT | Position: LONG
+2026-04-05 22:28:07,331 [INFO] 📊 BTCUSDT | Price: $67,436.00 | RSI: 31.99 | Balance: $82.73 USDT | Position: LONG
+2026-04-05 22:29:08,912 [INFO] 📊 BTCUSDT | Price: $67,452.30 | RSI: 40.55 | Balance: $82.74 USDT | Position: LONG
+2026-04-05 22:30:11,448 [INFO] 📊 BTCUSDT | Price: $67,454.20 | RSI: 41.05 | Balance: $82.74 USDT | Position: LONG
+2026-04-05 22:31:13,172 [INFO] 📊 BTCUSDT | Price: $67,455.10 | RSI: 40.86 | Balance: $82.74 USDT | Position: LONG
+2026-04-05 22:32:15,253 [INFO] 📊 BTCUSDT | Price: $67,464.70 | RSI: 44.62 | Balance: $82.75 USDT | Position: LONG
+2026-04-05 22:33:17,574 [INFO] 📊 BTCUSDT | Price: $67,460.70 | RSI: 43.51 | Balance: $82.75 USDT | Position: LONG
+2026-04-05 22:34:29,548 [INFO] 📊 BTCUSDT | Price: $67,443.80 | RSI: 40.25 | Balance: $82.73 USDT | Position: LONG
+2026-04-05 22:35:34,405 [INFO] 📊 BTCUSDT | Price: $67,436.60 | RSI: 38.22 | Balance: $82.73 USDT | Position: LONG
+2026-04-05 22:36:36,398 [INFO] 📊 BTCUSDT | Price: $67,436.70 | RSI: 38.24 | Balance: $82.73 USDT | Position: LONG
+2026-04-05 22:37:38,226 [INFO] 📊 BTCUSDT | Price: $67,449.80 | RSI: 42.98 | Balance: $82.74 USDT | Position: LONG
+2026-04-05 22:38:42,564 [INFO] 📊 BTCUSDT | Price: $67,434.50 | RSI: 39.68 | Balance: $82.72 USDT | Position: LONG
+2026-04-05 22:39:46,832 [INFO] 📊 BTCUSDT | Price: $67,434.60 | RSI: 39.19 | Balance: $82.72 USDT | Position: LONG
+2026-04-05 22:40:49,545 [INFO] 📊 BTCUSDT | Price: $67,456.40 | RSI: 46.83 | Balance: $82.75 USDT | Position: LONG
+2026-04-05 22:41:51,429 [INFO] 📊 BTCUSDT | Price: $67,474.50 | RSI: 52.04 | Balance: $82.76 USDT | Position: LONG
+2026-04-05 22:43:04,023 [INFO] 📊 BTCUSDT | Price: $67,439.40 | RSI: 43.84 | Balance: $82.73 USDT | Position: LONG
+2026-04-05 22:44:11,657 [INFO] 📊 BTCUSDT | Price: $67,434.50 | RSI: 42.35 | Balance: $82.72 USDT | Position: LONG
+2026-04-05 22:45:13,725 [INFO] 📊 BTCUSDT | Price: $67,463.80 | RSI: 46.56 | Balance: $82.74 USDT | Position: LONG
+2026-04-05 22:46:18,662 [INFO] 📊 BTCUSDT | Price: $67,481.90 | RSI: 53.86 | Balance: $82.77 USDT | Position: LONG
+2026-04-05 22:47:20,921 [INFO] 📊 BTCUSDT | Price: $67,495.10 | RSI: 60.46 | Balance: $82.78 USDT | Position: LONG
+2026-04-05 22:48:22,836 [INFO] 📊 BTCUSDT | Price: $67,483.60 | RSI: 54.1 | Balance: $82.77 USDT | Position: LONG
+2026-04-05 22:49:25,431 [INFO] 📊 BTCUSDT | Price: $67,507.90 | RSI: 59.95 | Balance: $82.80 USDT | Position: LONG
+2026-04-05 22:50:27,429 [INFO] 📊 BTCUSDT | Price: $67,521.60 | RSI: 58.99 | Balance: $82.81 USDT | Position: LONG
+2026-04-05 22:51:34,576 [INFO] 📊 BTCUSDT | Price: $67,566.00 | RSI: 69.74 | Balance: $82.85 USDT | Position: LONG
+2026-04-05 22:52:44,013 [INFO] 📊 BTCUSDT | Price: $67,567.00 | RSI: 69.74 | Balance: $82.86 USDT | Position: LONG
+2026-04-05 22:53:47,443 [INFO] 📊 BTCUSDT | Price: $67,579.30 | RSI: 60.75 | Balance: $82.86 USDT | Position: LONG
+2026-04-05 22:54:49,867 [INFO] 📊 BTCUSDT | Price: $67,600.40 | RSI: 64.21 | Balance: $82.89 USDT | Position: LONG
+2026-04-05 22:55:52,895 [INFO] 📊 BTCUSDT | Price: $67,605.60 | RSI: 64.89 | Balance: $82.89 USDT | Position: LONG
+2026-04-05 22:56:55,540 [INFO] 📊 BTCUSDT | Price: $67,608.10 | RSI: 64.71 | Balance: $82.90 USDT | Position: LONG
+2026-04-05 22:58:01,817 [INFO] 📊 BTCUSDT | Price: $67,558.20 | RSI: 57.25 | Balance: $82.85 USDT | Position: LONG
+2026-04-05 22:59:09,504 [INFO] 📊 BTCUSDT | Price: $67,500.00 | RSI: 51.09 | Balance: $82.78 USDT | Position: LONG
+2026-04-05 23:00:33,201 [INFO] 📊 BTCUSDT | Price: $67,513.10 | RSI: 50.36 | Balance: $82.79 USDT | Position: LONG
+2026-04-05 23:01:40,472 [INFO] 📊 BTCUSDT | Price: $67,612.80 | RSI: 57.27 | Balance: $82.90 USDT | Position: LONG
+2026-04-05 23:03:09,718 [INFO] 📊 BTCUSDT | Price: $67,699.40 | RSI: 64.59 | Balance: $82.99 USDT | Position: LONG
+2026-04-05 23:04:12,511 [INFO] 📊 BTCUSDT | Price: $67,698.50 | RSI: 65.4 | Balance: $82.98 USDT | Position: LONG
+2026-04-05 23:05:14,703 [INFO] 📊 BTCUSDT | Price: $67,718.50 | RSI: 66.45 | Balance: $83.01 USDT | Position: LONG
+2026-04-05 23:06:18,641 [INFO] 📊 BTCUSDT | Price: $67,636.80 | RSI: 58.57 | Balance: $82.91 USDT | Position: LONG
+2026-04-05 23:07:30,396 [INFO] 📊 BTCUSDT | Price: $67,662.60 | RSI: 57.84 | Balance: $82.95 USDT | Position: LONG
+2026-04-05 23:08:37,531 [INFO] 📊 BTCUSDT | Price: $67,689.60 | RSI: 63.04 | Balance: $82.97 USDT | Position: LONG
+2026-04-05 23:09:42,691 [INFO] 📊 BTCUSDT | Price: $67,675.60 | RSI: 59.16 | Balance: $82.96 USDT | Position: LONG
+2026-04-05 23:10:46,012 [INFO] 📊 BTCUSDT | Price: $67,569.20 | RSI: 45.69 | Balance: $82.85 USDT | Position: LONG
+2026-04-05 23:11:55,837 [INFO] 📊 BTCUSDT | Price: $67,481.00 | RSI: 39.17 | Balance: $82.77 USDT | Position: LONG
+2026-04-05 23:13:00,585 [INFO] 📊 BTCUSDT | Price: $67,496.00 | RSI: 38.83 | Balance: $82.79 USDT | Position: LONG
+2026-04-05 23:14:04,406 [INFO] 📊 BTCUSDT | Price: $67,479.90 | RSI: 40.01 | Balance: $82.76 USDT | Position: LONG
+2026-04-05 23:15:06,392 [INFO] 📊 BTCUSDT | Price: $67,519.90 | RSI: 42.53 | Balance: $82.81 USDT | Position: LONG
+2026-04-05 23:16:11,930 [INFO] 📊 BTCUSDT | Price: $67,530.60 | RSI: 46.79 | Balance: $82.81 USDT | Position: LONG
+2026-04-05 23:17:14,085 [INFO] 📊 BTCUSDT | Price: $67,561.20 | RSI: 49.67 | Balance: $82.84 USDT | Position: LONG
+2026-04-05 23:18:17,501 [INFO] 📊 BTCUSDT | Price: $67,555.80 | RSI: 49.0 | Balance: $82.84 USDT | Position: LONG
+2026-04-05 23:19:19,593 [INFO] 📊 BTCUSDT | Price: $67,483.10 | RSI: 41.76 | Balance: $82.77 USDT | Position: LONG
