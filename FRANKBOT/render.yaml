@@ -1,0 +1,7 @@
+services:
+  - type: worker
+    name: frankbot
+    env: python
+    rootDir: FRANKBOT
+    buildCommand: pip install -r requirements.txt
+    startCommand: python macd_rsi_bot.py
