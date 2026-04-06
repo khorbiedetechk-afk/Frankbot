@@ -1,1 +1,0 @@
-worker: python macd_rsi_bot.py
