@@ -1,0 +1,1154 @@
+2026-04-05 18:54:02,441 [INFO] ✅ MACD+RSI Bot initialized.
+2026-04-05 18:54:08,421 [ERROR] ❌ Setup failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 154.160.27.228
+2026-04-05 19:02:34,909 [INFO] ✅ MACD+RSI Bot initialized.
+2026-04-05 19:02:39,033 [INFO] ⚙️  BTCUSDT | Leverage: 2x
+2026-04-05 19:02:39,840 [INFO] 🌐 Server time: 2026-04-05 19:02:38.751000
+2026-04-05 19:02:39,840 [INFO] 🚀 MACD+RSI Futures Bot started
+2026-04-05 19:02:39,840 [INFO]    Symbol: BTCUSDT | Interval: 15m | Leverage: 2x
+2026-04-05 19:02:39,840 [INFO]    RSI LONG < 40 | RSI SHORT > 60
+2026-04-05 19:02:39,840 [INFO]    Stop-loss: 2.0% | Take-profit: 4.0%
+2026-04-05 19:02:39,840 [INFO]    MACD (12/26/9)
+2026-04-05 19:02:41,719 [INFO] 📊 Price: $67,263.80 | RSI: 57.96 | MACD: 103.7484 | Signal: 92.3255 | Hist: 11.4229 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:02:41,719 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.96)
+2026-04-05 19:03:43,640 [INFO] 📊 Price: $67,292.50 | RSI: 59.85 | MACD: 106.0379 | Signal: 92.7834 | Hist: 13.2545 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:03:43,640 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.85)
+2026-04-05 19:04:45,894 [INFO] 📊 Price: $67,290.00 | RSI: 59.67 | MACD: 105.8305 | Signal: 92.7419 | Hist: 13.0885 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:04:46,128 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.67)
+2026-04-05 19:06:00,061 [INFO] 📊 Price: $67,305.50 | RSI: 61.0 | MACD: 107.3621 | Signal: 93.0482 | Hist: 14.3138 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:06:01,060 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:07:03,763 [INFO] 📊 Price: $67,297.70 | RSI: 60.21 | MACD: 106.4527 | Signal: 92.8664 | Hist: 13.5863 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:07:03,796 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:08:05,641 [INFO] 📊 Price: $67,270.10 | RSI: 58.61 | MACD: 104.5461 | Signal: 92.4851 | Hist: 12.0611 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:08:05,641 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.61)
+2026-04-05 19:09:07,360 [INFO] 📊 Price: $67,265.70 | RSI: 58.09 | MACD: 103.908 | Signal: 92.3574 | Hist: 11.5505 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:09:07,360 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.09)
+2026-04-05 19:10:09,746 [INFO] 📊 Price: $67,276.00 | RSI: 58.74 | MACD: 104.7137 | Signal: 92.5186 | Hist: 12.1951 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:10:09,746 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.74)
+2026-04-05 19:11:11,515 [INFO] 📊 Price: $67,278.20 | RSI: 59.19 | MACD: 105.2481 | Signal: 92.6255 | Hist: 12.6227 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:11:11,515 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.19)
+2026-04-05 19:12:14,084 [INFO] 📊 Price: $67,280.00 | RSI: 59.02 | MACD: 105.0487 | Signal: 92.5856 | Hist: 12.4631 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:12:14,131 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.02)
+2026-04-05 19:13:15,900 [INFO] 📊 Price: $67,291.10 | RSI: 60.22 | MACD: 106.4686 | Signal: 92.8696 | Hist: 13.5991 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:13:15,915 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:14:17,776 [INFO] 📊 Price: $67,297.80 | RSI: 60.21 | MACD: 106.4607 | Signal: 92.868 | Hist: 13.5927 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:14:17,792 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:15:19,719 [INFO] 📊 Price: $67,290.10 | RSI: 59.53 | MACD: 101.3358 | Signal: 94.3574 | Hist: 6.9785 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:15:19,735 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.53)
+2026-04-05 19:16:22,090 [INFO] 📊 Price: $67,290.00 | RSI: 59.53 | MACD: 101.3358 | Signal: 94.3574 | Hist: 6.9785 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:16:22,090 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.53)
+2026-04-05 19:17:24,181 [INFO] 📊 Price: $67,290.00 | RSI: 59.53 | MACD: 101.3358 | Signal: 94.3574 | Hist: 6.9785 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:17:24,181 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.53)
+2026-04-05 19:18:26,745 [INFO] 📊 Price: $67,291.70 | RSI: 60.56 | MACD: 103.0749 | Signal: 94.7052 | Hist: 8.3697 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:18:26,745 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:19:28,341 [INFO] 📊 Price: $67,275.00 | RSI: 58.65 | MACD: 100.1393 | Signal: 94.118 | Hist: 6.0212 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:19:28,357 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.65)
+2026-04-05 19:20:30,032 [INFO] 📊 Price: $67,267.20 | RSI: 58.11 | MACD: 99.517 | Signal: 93.9936 | Hist: 5.5234 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:20:30,032 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.11)
+2026-04-05 19:21:31,652 [INFO] 📊 Price: $67,270.90 | RSI: 58.37 | MACD: 99.8122 | Signal: 94.0526 | Hist: 5.7596 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:21:31,652 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.37)
+2026-04-05 19:22:33,390 [INFO] 📊 Price: $67,261.40 | RSI: 57.71 | MACD: 99.0544 | Signal: 93.9011 | Hist: 5.1533 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:22:33,405 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.71)
+2026-04-05 19:23:34,912 [INFO] 📊 Price: $67,278.30 | RSI: 58.88 | MACD: 100.4025 | Signal: 94.1707 | Hist: 6.2318 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:23:34,912 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.88)
+2026-04-05 19:24:36,682 [INFO] 📊 Price: $67,278.30 | RSI: 58.88 | MACD: 100.4025 | Signal: 94.1707 | Hist: 6.2318 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:24:36,697 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.88)
+2026-04-05 19:25:38,445 [INFO] 📊 Price: $67,263.00 | RSI: 57.82 | MACD: 99.182 | Signal: 93.9266 | Hist: 5.2554 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:25:38,461 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.82)
+2026-04-05 19:26:40,359 [INFO] 📊 Price: $67,261.50 | RSI: 57.71 | MACD: 99.0544 | Signal: 93.9011 | Hist: 5.1533 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:26:40,374 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.71)
+2026-04-05 19:27:42,003 [INFO] 📊 Price: $67,257.90 | RSI: 57.48 | MACD: 98.7752 | Signal: 93.8452 | Hist: 4.9299 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:27:42,003 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.48)
+2026-04-05 19:28:43,542 [INFO] 📊 Price: $67,260.90 | RSI: 57.81 | MACD: 99.166 | Signal: 93.9234 | Hist: 5.2426 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:28:43,558 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.81)
+2026-04-05 19:29:46,010 [INFO] 📊 Price: $67,274.20 | RSI: 58.6 | MACD: 100.0754 | Signal: 94.1053 | Hist: 5.9702 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:29:46,010 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.6)
+2026-04-05 19:30:47,726 [INFO] 📊 Price: $67,297.30 | RSI: 59.79 | MACD: 96.7687 | Signal: 94.6364 | Hist: 2.1322 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:30:47,726 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.79)
+2026-04-05 19:31:49,487 [INFO] 📊 Price: $67,303.90 | RSI: 60.12 | MACD: 97.2952 | Signal: 94.7417 | Hist: 2.5534 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:31:49,487 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:32:51,111 [INFO] 📊 Price: $67,357.90 | RSI: 62.62 | MACD: 101.6029 | Signal: 95.6033 | Hist: 5.9996 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:32:51,111 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:33:53,577 [INFO] 📊 Price: $67,368.10 | RSI: 63.24 | MACD: 102.7516 | Signal: 95.833 | Hist: 6.9186 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:33:53,593 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:34:55,168 [INFO] 📊 Price: $67,384.10 | RSI: 63.72 | MACD: 103.6849 | Signal: 96.0197 | Hist: 7.6652 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:34:55,168 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:35:56,692 [INFO] 📊 Price: $67,403.90 | RSI: 64.39 | MACD: 105.0012 | Signal: 96.2829 | Hist: 8.7182 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:35:56,692 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:36:58,336 [INFO] 📊 Price: $67,382.10 | RSI: 63.64 | MACD: 103.5334 | Signal: 95.9894 | Hist: 7.544 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:36:58,352 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:38:00,064 [INFO] 📊 Price: $67,364.40 | RSI: 63.06 | MACD: 102.4165 | Signal: 95.766 | Hist: 6.6505 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:38:00,064 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:39:01,756 [INFO] 📊 Price: $67,397.50 | RSI: 64.27 | MACD: 104.7698 | Signal: 96.2367 | Hist: 8.5331 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:39:01,756 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:40:04,315 [INFO] 📊 Price: $67,408.90 | RSI: 64.71 | MACD: 105.6712 | Signal: 96.417 | Hist: 9.2543 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:40:04,331 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:41:06,934 [INFO] 📊 Price: $67,383.80 | RSI: 64.21 | MACD: 104.6422 | Signal: 96.2112 | Hist: 8.431 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:41:06,957 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:42:12,858 [INFO] 📊 Price: $67,379.90 | RSI: 63.53 | MACD: 103.318 | Signal: 95.9463 | Hist: 7.3717 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:42:12,868 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:43:14,546 [INFO] 📊 Price: $67,400.10 | RSI: 64.37 | MACD: 104.9693 | Signal: 96.2766 | Hist: 8.6927 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:43:14,552 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:44:16,285 [INFO] 📊 Price: $67,403.30 | RSI: 64.5 | MACD: 105.2245 | Signal: 96.3276 | Hist: 8.8969 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:44:16,289 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:45:18,267 [INFO] 📊 Price: $67,406.10 | RSI: 63.43 | MACD: 106.0922 | Signal: 98.1705 | Hist: 7.9217 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:45:18,284 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:46:20,004 [INFO] 📊 Price: $67,400.00 | RSI: 64.38 | MACD: 107.2729 | Signal: 98.4067 | Hist: 8.8662 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:46:20,012 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:47:21,683 [INFO] 📊 Price: $67,421.80 | RSI: 64.83 | MACD: 108.1264 | Signal: 98.5774 | Hist: 9.549 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:47:21,688 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:48:23,321 [INFO] 📊 Price: $67,420.50 | RSI: 65.23 | MACD: 108.9082 | Signal: 98.7337 | Hist: 10.1745 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:48:23,326 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:49:24,985 [INFO] 📊 Price: $67,413.70 | RSI: 64.95 | MACD: 108.3578 | Signal: 98.6236 | Hist: 9.7341 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:49:24,989 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:50:26,559 [INFO] 📊 Price: $67,378.00 | RSI: 62.89 | MACD: 105.5179 | Signal: 98.0557 | Hist: 7.4622 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:50:26,564 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:51:28,188 [INFO] 📊 Price: $67,370.70 | RSI: 62.35 | MACD: 104.9276 | Signal: 97.9376 | Hist: 6.99 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:51:28,193 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:52:29,973 [INFO] 📊 Price: $67,388.00 | RSI: 64.16 | MACD: 106.866 | Signal: 98.3253 | Hist: 8.5407 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:52:29,979 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:53:32,157 [INFO] 📊 Price: $67,361.80 | RSI: 61.72 | MACD: 104.2256 | Signal: 97.7972 | Hist: 6.4284 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:53:32,220 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:54:34,029 [INFO] 📊 Price: $67,376.90 | RSI: 62.81 | MACD: 105.4301 | Signal: 98.0381 | Hist: 7.392 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:54:34,041 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:55:35,699 [INFO] 📊 Price: $67,367.90 | RSI: 62.16 | MACD: 104.7122 | Signal: 97.8945 | Hist: 6.8176 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:55:35,704 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 19:57:17,305 [INFO] ✅ MACD+RSI Bot initialized.
+2026-04-05 19:57:23,994 [INFO] ⚙️  BTCUSDT | Leverage: 2x
+2026-04-05 19:57:24,449 [INFO] 🌐 Server time: 2026-04-05 19:57:23.597000
+2026-04-05 19:57:24,456 [INFO] 🚀 MACD+RSI Futures Bot started
+2026-04-05 19:57:24,477 [INFO]    Symbol: BTCUSDT | Interval: 1m | Leverage: 2x
+2026-04-05 19:57:24,481 [INFO]    RSI LONG < 40 | RSI SHORT > 60
+2026-04-05 19:57:24,486 [INFO]    Stop-loss: 2.0% | Take-profit: 4.0%
+2026-04-05 19:57:24,487 [INFO]    MACD (12/26/9)
+2026-04-05 19:57:26,912 [INFO] 📊 Price: $67,361.40 | RSI: 48.44 | MACD: 5.7847 | Signal: 13.3448 | Hist: -7.5601 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:57:26,917 [INFO] ⏳ No signal — no MACD cross, RSI neutral (48.44)
+2026-04-05 19:58:28,753 [INFO] 📊 Price: $67,355.60 | RSI: 46.95 | MACD: 3.908 | Signal: 11.4285 | Hist: -7.5204 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:58:28,761 [INFO] ⏳ No signal — no MACD cross, RSI neutral (46.95)
+2026-04-05 19:59:30,593 [INFO] 📊 Price: $67,358.40 | RSI: 47.75 | MACD: 2.5526 | Signal: 9.625 | Hist: -7.0724 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 19:59:30,599 [INFO] ⏳ No signal — no MACD cross, RSI neutral (47.75)
+2026-04-05 20:00:32,310 [INFO] 📊 Price: $67,368.80 | RSI: 50.74 | MACD: 3.8491 | Signal: 8.7608 | Hist: -4.9118 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:00:32,319 [INFO] ⏳ No signal — no MACD cross, RSI neutral (50.74)
+2026-04-05 20:01:34,207 [INFO] 📊 Price: $67,350.30 | RSI: 46.96 | MACD: 2.3504 | Signal: 7.4781 | Hist: -5.1277 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:01:34,224 [INFO] ⏳ No signal — no MACD cross, RSI neutral (46.96)
+2026-04-05 20:02:36,790 [INFO] 📊 Price: $67,355.30 | RSI: 47.18 | MACD: 1.7218 | Signal: 6.4239 | Hist: -4.7021 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:02:36,793 [INFO] ⏳ No signal — no MACD cross, RSI neutral (47.18)
+2026-04-05 20:03:38,433 [INFO] 📊 Price: $67,350.10 | RSI: 45.12 | MACD: 0.0655 | Signal: 5.1295 | Hist: -5.064 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:03:38,440 [INFO] ⏳ No signal — no MACD cross, RSI neutral (45.12)
+2026-04-05 20:04:48,838 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+2026-04-05 20:04:48,843 [INFO] ⏱️  Retrying in 5s...
+2026-04-05 20:05:08,258 [INFO] 📊 Price: $67,364.30 | RSI: 47.34 | MACD: -2.1787 | Signal: 2.5659 | Hist: -4.7445 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:05:08,279 [INFO] ⏳ No signal — no MACD cross, RSI neutral (47.34)
+2026-04-05 20:06:10,072 [INFO] 📊 Price: $67,364.30 | RSI: 50.45 | MACD: -1.0976 | Signal: 1.9583 | Hist: -3.0558 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:06:10,076 [INFO] ⏳ No signal — no MACD cross, RSI neutral (50.45)
+2026-04-05 20:07:12,096 [INFO] 📊 Price: $67,374.00 | RSI: 54.39 | MACD: 0.8781 | Signal: 1.8839 | Hist: -1.0058 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:07:12,157 [INFO] ⏳ No signal — no MACD cross, RSI neutral (54.39)
+2026-04-05 20:08:13,936 [INFO] 📊 Price: $67,370.80 | RSI: 52.22 | MACD: 0.7958 | Signal: 1.5838 | Hist: -0.788 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:08:13,944 [INFO] ⏳ No signal — no MACD cross, RSI neutral (52.22)
+2026-04-05 20:09:15,544 [INFO] 📊 Price: $67,353.50 | RSI: 46.67 | MACD: -1.3312 | Signal: 0.7791 | Hist: -2.1103 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:09:15,548 [INFO] ⏳ No signal — no MACD cross, RSI neutral (46.67)
+2026-04-05 20:10:17,475 [INFO] 📊 Price: $67,356.70 | RSI: 47.91 | MACD: -0.7169 | Signal: 0.6662 | Hist: -1.3831 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:10:17,480 [INFO] ⏳ No signal — no MACD cross, RSI neutral (47.91)
+2026-04-05 20:11:19,088 [INFO] 📊 Price: $67,337.90 | RSI: 42.98 | MACD: -3.826 | Signal: -0.475 | Hist: -3.351 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:11:19,098 [INFO] ⏳ No signal — no MACD cross, RSI neutral (42.98)
+2026-04-05 20:12:20,724 [INFO] 📊 Price: $67,333.90 | RSI: 42.11 | MACD: -5.6515 | Signal: -1.5728 | Hist: -4.0787 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:12:20,729 [INFO] ⏳ No signal — no MACD cross, RSI neutral (42.11)
+2026-04-05 20:13:22,530 [INFO] 📊 Price: $67,393.90 | RSI: 58.04 | MACD: -0.4116 | Signal: -1.0255 | Hist: 0.6139 | Cross: BULLISH | Pos: NONE | Bal: $0.00
+2026-04-05 20:13:22,530 [INFO] ⏳ No signal — RSI neutral (58.04)
+2026-04-05 20:14:24,662 [INFO] 📊 Price: $67,387.10 | RSI: 56.76 | MACD: 0.8572 | Signal: -0.8065 | Hist: 1.6637 | Cross: BULLISH | Pos: NONE | Bal: $0.00
+2026-04-05 20:14:24,662 [INFO] ⏳ No signal — RSI neutral (56.76)
+2026-04-05 20:15:26,275 [INFO] 📊 Price: $67,363.80 | RSI: 52.26 | MACD: 0.9747 | Signal: -0.524 | Hist: 1.4987 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:15:26,291 [INFO] ⏳ No signal — no MACD cross, RSI neutral (52.26)
+2026-04-05 20:16:28,071 [INFO] 📊 Price: $67,411.00 | RSI: 58.76 | MACD: 4.853 | Signal: 0.8615 | Hist: 3.9915 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:16:28,071 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.76)
+2026-04-05 20:17:29,785 [INFO] 📊 Price: $67,416.90 | RSI: 63.4 | MACD: 9.174 | Signal: 2.759 | Hist: 6.415 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:17:29,785 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:18:31,492 [INFO] 📊 Price: $67,416.90 | RSI: 63.39 | MACD: 11.3111 | Signal: 4.4709 | Hist: 6.8402 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:18:31,492 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:19:33,116 [INFO] 📊 Price: $67,466.70 | RSI: 72.66 | MACD: 18.3709 | Signal: 7.502 | Hist: 10.8689 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:19:33,116 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:20:37,581 [INFO] 📊 Price: $67,487.70 | RSI: 76.0 | MACD: 25.9963 | Signal: 11.4642 | Hist: 14.5322 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:20:37,851 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:21:40,571 [INFO] 📊 Price: $67,468.20 | RSI: 66.67 | MACD: 28.533 | Signal: 14.9299 | Hist: 13.603 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:21:40,720 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:22:42,741 [INFO] 📊 Price: $67,494.00 | RSI: 67.9 | MACD: 30.7355 | Signal: 18.1818 | Hist: 12.5537 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:22:42,757 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:23:44,893 [INFO] 📊 Price: $67,487.10 | RSI: 70.97 | MACD: 34.2134 | Signal: 21.6004 | Hist: 12.613 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:23:44,909 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:24:46,729 [INFO] 📊 Price: $67,482.80 | RSI: 66.19 | MACD: 34.5038 | Signal: 24.1987 | Hist: 10.3051 | Cross: NONE | Pos: NONE | Bal: $0.00
+2026-04-05 20:24:46,729 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:25:49,212 [INFO] 📊 Price: $67,499.60 | RSI: 70.48 | MACD: 36.2192 | Signal: 26.733 | Hist: 9.4861 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:25:49,229 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:26:53,198 [INFO] 📊 Price: $67,480.00 | RSI: 64.21 | MACD: 34.7197 | Signal: 28.2845 | Hist: 6.4352 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:26:53,226 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:27:54,787 [INFO] 📊 Price: $67,453.40 | RSI: 57.86 | MACD: 31.7849 | Signal: 28.9859 | Hist: 2.799 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:27:54,787 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.86)
+2026-04-05 20:28:56,373 [INFO] 📊 Price: $67,438.30 | RSI: 52.09 | MACD: 26.741 | Signal: 28.4015 | Hist: -1.6605 | Cross: BEARISH | Pos: NONE | Bal: $149.97
+2026-04-05 20:28:56,373 [INFO] ⏳ No signal — RSI neutral (52.09)
+2026-04-05 20:29:58,028 [INFO] 📊 Price: $67,435.30 | RSI: 51.3 | MACD: 22.9013 | Signal: 27.2998 | Hist: -4.3985 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:29:58,035 [INFO] ⏳ No signal — no MACD cross, RSI neutral (51.3)
+2026-04-05 20:31:00,911 [INFO] 📊 Price: $67,423.00 | RSI: 49.17 | MACD: 19.0086 | Signal: 25.6419 | Hist: -6.6333 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:31:00,926 [INFO] ⏳ No signal — no MACD cross, RSI neutral (49.17)
+2026-04-05 20:32:03,094 [INFO] 📊 Price: $67,417.20 | RSI: 46.87 | MACD: 14.7532 | Signal: 23.4083 | Hist: -8.6551 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:32:03,094 [INFO] ⏳ No signal — no MACD cross, RSI neutral (46.87)
+2026-04-05 20:33:04,707 [INFO] 📊 Price: $67,407.10 | RSI: 42.8 | MACD: 10.1416 | Signal: 20.7405 | Hist: -10.5989 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:33:04,769 [INFO] ⏳ No signal — no MACD cross, RSI neutral (42.8)
+2026-04-05 20:34:06,498 [INFO] 📊 Price: $67,422.20 | RSI: 46.58 | MACD: 7.4712 | Signal: 18.0867 | Hist: -10.6156 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:34:06,514 [INFO] ⏳ No signal — no MACD cross, RSI neutral (46.58)
+2026-04-05 20:35:08,754 [INFO] 📊 Price: $67,414.50 | RSI: 46.66 | MACD: 3.6401 | Signal: 13.1712 | Hist: -9.5311 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:35:08,770 [INFO] ⏳ No signal — no MACD cross, RSI neutral (46.66)
+2026-04-05 20:36:10,458 [INFO] 📊 Price: $67,398.00 | RSI: 42.41 | MACD: 2.3239 | Signal: 12.908 | Hist: -10.5841 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:36:10,458 [INFO] ⏳ No signal — no MACD cross, RSI neutral (42.41)
+2026-04-05 20:37:15,141 [INFO] 📊 Price: $67,381.30 | RSI: 40.31 | MACD: -3.2974 | Signal: 7.4673 | Hist: -10.7647 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:37:15,141 [INFO] ⏳ No signal — no MACD cross, RSI neutral (40.31)
+2026-04-05 20:38:16,867 [INFO] 📊 Price: $67,350.00 | RSI: 34.96 | MACD: -7.7806 | Signal: 4.2786 | Hist: -12.0592 | Cross: NONE | Pos: NONE | Bal: $149.97
+2026-04-05 20:38:16,882 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:39:18,499 [INFO] 📊 Price: $67,306.80 | RSI: 26.24 | MACD: -18.6989 | Signal: -1.046 | Hist: -17.6529 | Cross: NONE | Pos: NONE | Bal: $82.60
+2026-04-05 20:39:18,514 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:40:20,390 [INFO] 📊 Price: $67,297.90 | RSI: 25.42 | MACD: -24.7501 | Signal: -5.9079 | Hist: -18.8422 | Cross: NONE | Pos: NONE | Bal: $82.59
+2026-04-05 20:40:20,390 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:41:22,249 [INFO] 📊 Price: $67,305.50 | RSI: 27.61 | MACD: -27.8109 | Signal: -10.2259 | Hist: -17.5851 | Cross: NONE | Pos: NONE | Bal: $82.59
+2026-04-05 20:41:22,265 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:42:23,888 [INFO] 📊 Price: $67,289.70 | RSI: 26.48 | MACD: -32.5412 | Signal: -14.9313 | Hist: -17.6099 | Cross: NONE | Pos: NONE | Bal: $82.58
+2026-04-05 20:42:23,919 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:43:25,660 [INFO] 📊 Price: $67,257.70 | RSI: 21.81 | MACD: -38.4544 | Signal: -19.8824 | Hist: -18.572 | Cross: NONE | Pos: NONE | Bal: $82.55
+2026-04-05 20:43:25,676 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:44:27,395 [INFO] 📊 Price: $67,262.10 | RSI: 22.31 | MACD: -40.7642 | Signal: -23.9975 | Hist: -16.7667 | Cross: NONE | Pos: NONE | Bal: $82.55
+2026-04-05 20:44:27,410 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:45:30,003 [INFO] 📊 Price: $67,277.40 | RSI: 27.96 | MACD: -40.2403 | Signal: -27.0495 | Hist: -13.1908 | Cross: NONE | Pos: NONE | Bal: $82.57
+2026-04-05 20:45:30,049 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:46:31,752 [INFO] 📊 Price: $67,274.20 | RSI: 28.14 | MACD: -40.3049 | Signal: -29.6811 | Hist: -10.6238 | Cross: NONE | Pos: NONE | Bal: $82.56
+2026-04-05 20:46:31,767 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:47:33,397 [INFO] 📊 Price: $67,296.40 | RSI: 29.16 | MACD: -40.0581 | Signal: -31.787 | Hist: -8.2711 | Cross: NONE | Pos: NONE | Bal: $82.55
+2026-04-05 20:47:33,397 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:48:35,023 [INFO] 📊 Price: $67,277.70 | RSI: 29.2 | MACD: -39.2439 | Signal: -33.2767 | Hist: -5.9672 | Cross: NONE | Pos: NONE | Bal: $82.57
+2026-04-05 20:48:35,023 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:49:36,745 [INFO] 📊 Price: $67,277.80 | RSI: 29.2 | MACD: -38.1651 | Signal: -34.2542 | Hist: -3.9109 | Cross: NONE | Pos: NONE | Bal: $82.57
+2026-04-05 20:49:36,761 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:50:38,446 [INFO] 📊 Price: $67,265.20 | RSI: 30.97 | MACD: -39.5884 | Signal: -35.6746 | Hist: -3.9138 | Cross: NONE | Pos: NONE | Bal: $82.55
+2026-04-05 20:50:38,462 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:51:40,244 [INFO] 📊 Price: $67,278.00 | RSI: 35.83 | MACD: -37.4981 | Signal: -36.0405 | Hist: -1.4576 | Cross: NONE | Pos: NONE | Bal: $82.57
+2026-04-05 20:51:40,259 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:52:42,034 [INFO] 📊 Price: $67,289.90 | RSI: 40.02 | MACD: -34.4778 | Signal: -35.7283 | Hist: 1.2505 | Cross: BULLISH | Pos: NONE | Bal: $82.58
+2026-04-05 20:52:42,050 [INFO] ⏳ No signal — RSI neutral (40.02)
+2026-04-05 20:53:43,789 [INFO] 📊 Price: $67,278.80 | RSI: 37.54 | MACD: -32.6103 | Signal: -35.1063 | Hist: 2.496 | Cross: NONE | Pos: NONE | Bal: $82.57
+2026-04-05 20:53:43,804 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 20:54:45,484 [INFO] 📊 Price: $67,284.70 | RSI: 41.23 | MACD: -28.6695 | Signal: -33.6188 | Hist: 4.9493 | Cross: NONE | Pos: NONE | Bal: $82.57
+2026-04-05 20:54:45,499 [INFO] ⏳ No signal — no MACD cross, RSI neutral (41.23)
+2026-04-05 20:55:47,925 [INFO] 📊 Price: $67,291.00 | RSI: 41.45 | MACD: -27.0167 | Signal: -32.4173 | Hist: 5.4006 | Cross: NONE | Pos: NONE | Bal: $82.58
+2026-04-05 20:55:47,925 [INFO] ⏳ No signal — no MACD cross, RSI neutral (41.45)
+2026-04-05 20:56:49,696 [INFO] 📊 Price: $67,298.80 | RSI: 44.42 | MACD: -24.14 | Signal: -30.756 | Hist: 6.616 | Cross: NONE | Pos: NONE | Bal: $82.59
+2026-04-05 20:56:49,696 [INFO] ⏳ No signal — no MACD cross, RSI neutral (44.42)
+2026-04-05 20:57:53,633 [INFO] 📊 Price: $67,298.90 | RSI: 44.36 | MACD: -21.6642 | Signal: -28.939 | Hist: 7.2748 | Cross: NONE | Pos: NONE | Bal: $82.59
+2026-04-05 20:57:53,680 [INFO] ⏳ No signal — no MACD cross, RSI neutral (44.36)
+2026-04-05 20:58:55,982 [INFO] 📊 Price: $67,299.00 | RSI: 44.46 | MACD: -19.4288 | Signal: -27.0331 | Hist: 7.6043 | Cross: NONE | Pos: NONE | Bal: $82.59
+2026-04-05 20:58:55,982 [INFO] ⏳ No signal — no MACD cross, RSI neutral (44.46)
+2026-04-05 20:59:57,734 [INFO] 📊 Price: $67,329.10 | RSI: 53.33 | MACD: -15.4902 | Signal: -24.7232 | Hist: 9.2329 | Cross: NONE | Pos: NONE | Bal: $82.61
+2026-04-05 20:59:57,749 [INFO] ⏳ No signal — no MACD cross, RSI neutral (53.33)
+2026-04-05 21:00:59,703 [INFO] 📊 Price: $67,347.70 | RSI: 59.9 | MACD: -9.987 | Signal: -21.7068 | Hist: 11.7199 | Cross: NONE | Pos: NONE | Bal: $82.63
+2026-04-05 21:00:59,719 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.9)
+2026-04-05 21:02:02,192 [INFO] 📊 Price: $67,324.50 | RSI: 52.21 | MACD: -7.8035 | Signal: -18.939 | Hist: 11.1355 | Cross: NONE | Pos: NONE | Bal: $82.61
+2026-04-05 21:02:02,208 [INFO] ⏳ No signal — no MACD cross, RSI neutral (52.21)
+2026-04-05 21:03:04,023 [INFO] 📊 Price: $67,340.20 | RSI: 56.37 | MACD: -4.6951 | Signal: -16.0916 | Hist: 11.3965 | Cross: NONE | Pos: NONE | Bal: $82.63
+2026-04-05 21:03:04,023 [INFO] ⏳ No signal — no MACD cross, RSI neutral (56.37)
+2026-04-05 21:04:06,454 [INFO] 📊 Price: $67,364.50 | RSI: 61.89 | MACD: 3.2167 | Signal: -9.6977 | Hist: 12.9144 | Cross: NONE | Pos: NONE | Bal: $82.65
+2026-04-05 21:04:06,454 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:05:08,193 [INFO] 📊 Price: $67,313.10 | RSI: 47.8 | MACD: -0.5698 | Signal: -8.3624 | Hist: 7.7926 | Cross: NONE | Pos: NONE | Bal: $82.60
+2026-04-05 21:05:08,193 [INFO] ⏳ No signal — no MACD cross, RSI neutral (47.8)
+2026-04-05 21:06:10,801 [INFO] 📊 Price: $67,333.60 | RSI: 52.66 | MACD: 1.7618 | Signal: -6.0773 | Hist: 7.8391 | Cross: NONE | Pos: NONE | Bal: $82.62
+2026-04-05 21:06:10,817 [INFO] ⏳ No signal — no MACD cross, RSI neutral (52.66)
+2026-04-05 21:07:12,409 [INFO] 📊 Price: $67,340.10 | RSI: 54.17 | MACD: 3.198 | Signal: -4.1409 | Hist: 7.3389 | Cross: NONE | Pos: NONE | Bal: $82.63
+2026-04-05 21:07:12,425 [INFO] ⏳ No signal — no MACD cross, RSI neutral (54.17)
+2026-04-05 21:08:14,106 [INFO] 📊 Price: $67,347.10 | RSI: 55.96 | MACD: 4.4513 | Signal: -2.4215 | Hist: 6.8728 | Cross: NONE | Pos: NONE | Bal: $82.64
+2026-04-05 21:08:14,122 [INFO] ⏳ No signal — no MACD cross, RSI neutral (55.96)
+2026-04-05 21:09:15,696 [INFO] 📊 Price: $67,338.50 | RSI: 53.57 | MACD: 4.3986 | Signal: -1.1211 | Hist: 5.5198 | Cross: NONE | Pos: NONE | Bal: $82.63
+2026-04-05 21:09:15,696 [INFO] ⏳ No signal — no MACD cross, RSI neutral (53.57)
+2026-04-05 21:10:17,440 [INFO] 📊 Price: $67,329.50 | RSI: 50.83 | MACD: 3.3674 | Signal: -0.336 | Hist: 3.7034 | Cross: NONE | Pos: NONE | Bal: $82.62
+2026-04-05 21:10:17,455 [INFO] ⏳ No signal — no MACD cross, RSI neutral (50.83)
+2026-04-05 21:11:19,042 [INFO] 📊 Price: $67,323.50 | RSI: 48.86 | MACD: 2.3841 | Signal: 0.1699 | Hist: 2.2142 | Cross: NONE | Pos: NONE | Bal: $82.61
+2026-04-05 21:11:19,057 [INFO] ⏳ No signal — no MACD cross, RSI neutral (48.86)
+2026-04-05 21:12:20,740 [INFO] 📊 Price: $67,338.10 | RSI: 53.59 | MACD: 2.9548 | Signal: 0.7272 | Hist: 2.2276 | Cross: NONE | Pos: NONE | Bal: $82.63
+2026-04-05 21:12:20,740 [INFO] ⏳ No signal — no MACD cross, RSI neutral (53.59)
+2026-04-05 21:13:22,608 [INFO] 📊 Price: $67,338.10 | RSI: 53.59 | MACD: 3.3679 | Signal: 1.2553 | Hist: 2.1126 | Cross: NONE | Pos: NONE | Bal: $82.63
+2026-04-05 21:13:22,623 [INFO] ⏳ No signal — no MACD cross, RSI neutral (53.59)
+2026-04-05 21:14:24,301 [INFO] 📊 Price: $67,352.40 | RSI: 57.66 | MACD: 5.6688 | Signal: 2.3194 | Hist: 3.3494 | Cross: NONE | Pos: NONE | Bal: $82.64
+2026-04-05 21:14:24,301 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.66)
+2026-04-05 21:15:26,283 [INFO] 📊 Price: $67,352.50 | RSI: 57.62 | MACD: 6.5115 | Signal: 3.1582 | Hist: 3.3533 | Cross: NONE | Pos: NONE | Bal: $82.64
+2026-04-05 21:15:26,298 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.62)
+2026-04-05 21:16:32,024 [INFO] 📊 Price: $67,345.60 | RSI: 54.92 | MACD: 6.1278 | Signal: 3.6649 | Hist: 2.4629 | Cross: NONE | Pos: NONE | Bal: $82.63
+2026-04-05 21:16:32,024 [INFO] ⏳ No signal — no MACD cross, RSI neutral (54.92)
+2026-04-05 21:17:33,931 [INFO] 📊 Price: $67,352.40 | RSI: 57.13 | MACD: 7.1721 | Signal: 4.4557 | Hist: 2.7164 | Cross: NONE | Pos: NONE | Bal: $82.64
+2026-04-05 21:17:33,931 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.13)
+2026-04-05 21:18:36,548 [INFO] 📊 Price: $67,352.40 | RSI: 57.08 | MACD: 7.4571 | Signal: 5.0549 | Hist: 2.4022 | Cross: NONE | Pos: NONE | Bal: $82.64
+2026-04-05 21:18:36,579 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.08)
+2026-04-05 21:19:38,269 [INFO] 📊 Price: $67,344.70 | RSI: 53.73 | MACD: 6.632 | Signal: 5.2952 | Hist: 1.3368 | Cross: NONE | Pos: NONE | Bal: $82.63
+2026-04-05 21:19:38,269 [INFO] ⏳ No signal — no MACD cross, RSI neutral (53.73)
+2026-04-05 21:20:40,167 [INFO] 📊 Price: $67,369.00 | RSI: 58.78 | MACD: 7.3875 | Signal: 5.7137 | Hist: 1.6738 | Cross: NONE | Pos: NONE | Bal: $82.66
+2026-04-05 21:20:40,167 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.78)
+2026-04-05 21:21:43,392 [INFO] 📊 Price: $67,384.10 | RSI: 65.85 | MACD: 10.6031 | Signal: 6.8344 | Hist: 3.7687 | Cross: NONE | Pos: NONE | Bal: $82.67
+2026-04-05 21:21:43,408 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:22:45,146 [INFO] 📊 Price: $67,397.90 | RSI: 68.96 | MACD: 14.0097 | Signal: 8.3918 | Hist: 5.6179 | Cross: NONE | Pos: NONE | Bal: $82.69
+2026-04-05 21:22:45,146 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:23:46,965 [INFO] 📊 Price: $67,395.70 | RSI: 67.81 | MACD: 15.7355 | Signal: 9.8603 | Hist: 5.8751 | Cross: NONE | Pos: NONE | Bal: $82.68
+2026-04-05 21:23:46,980 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:24:48,572 [INFO] 📊 Price: $67,429.30 | RSI: 75.38 | MACD: 20.0514 | Signal: 11.8985 | Hist: 8.1529 | Cross: NONE | Pos: NONE | Bal: $82.70
+2026-04-05 21:24:48,588 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:25:50,178 [INFO] 📊 Price: $67,425.30 | RSI: 76.07 | MACD: 24.1664 | Signal: 14.4441 | Hist: 9.7223 | Cross: NONE | Pos: NONE | Bal: $82.71
+2026-04-05 21:25:50,178 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:26:51,913 [INFO] 📊 Price: $67,445.40 | RSI: 71.5 | MACD: 25.6704 | Signal: 16.4188 | Hist: 9.2515 | Cross: NONE | Pos: NONE | Bal: $82.73
+2026-04-05 21:26:51,913 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:27:53,643 [INFO] 📊 Price: $67,443.70 | RSI: 71.5 | MACD: 27.881 | Signal: 18.7112 | Hist: 9.1698 | Cross: NONE | Pos: NONE | Bal: $82.73
+2026-04-05 21:27:53,643 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:28:55,563 [INFO] 📊 Price: $67,445.40 | RSI: 71.08 | MACD: 29.1781 | Signal: 20.7801 | Hist: 8.3981 | Cross: NONE | Pos: NONE | Bal: $82.73
+2026-04-05 21:28:55,597 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:29:57,831 [INFO] 📊 Price: $67,450.00 | RSI: 71.87 | MACD: 30.3337 | Signal: 22.6896 | Hist: 7.6441 | Cross: NONE | Pos: NONE | Bal: $82.74
+2026-04-05 21:29:57,863 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:30:59,554 [INFO] 📊 Price: $67,456.90 | RSI: 71.84 | MACD: 30.9062 | Signal: 24.3349 | Hist: 6.5713 | Cross: NONE | Pos: NONE | Bal: $82.75
+2026-04-05 21:30:59,570 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:32:01,518 [INFO] 📊 Price: $67,450.00 | RSI: 69.91 | MACD: 31.4227 | Signal: 25.8393 | Hist: 5.5834 | Cross: NONE | Pos: NONE | Bal: $82.74
+2026-04-05 21:32:01,541 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:33:03,348 [INFO] 📊 Price: $67,450.00 | RSI: 69.86 | MACD: 31.03 | Signal: 26.8761 | Hist: 4.154 | Cross: NONE | Pos: NONE | Bal: $82.74
+2026-04-05 21:33:03,364 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:34:05,363 [INFO] 📊 Price: $67,453.40 | RSI: 70.61 | MACD: 29.9947 | Signal: 28.1035 | Hist: 1.8912 | Cross: NONE | Pos: NONE | Bal: $82.74
+2026-04-05 21:34:05,379 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:35:07,510 [INFO] 📊 Price: $67,450.10 | RSI: 68.8 | MACD: 28.6696 | Signal: 28.1747 | Hist: 0.4949 | Cross: NONE | Pos: NONE | Bal: $82.74
+2026-04-05 21:35:07,526 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:36:09,498 [INFO] 📊 Price: $67,450.00 | RSI: 62.33 | MACD: 27.6645 | Signal: 27.9737 | Hist: -0.3092 | Cross: BEARISH | Pos: NONE | Bal: $82.74
+2026-04-05 21:36:09,514 [INFO] ✅ SHORT signal | RSI: 62.33 + MACD bearish cross
+2026-04-05 21:36:10,280 [ERROR] ❌ Open SHORT failed: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-04-05 21:37:11,991 [INFO] 📊 Price: $67,475.00 | RSI: 71.12 | MACD: 28.914 | Signal: 28.2179 | Hist: 0.6962 | Cross: NONE | Pos: NONE | Bal: $82.76
+2026-04-05 21:37:11,991 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:38:13,588 [INFO] 📊 Price: $67,640.30 | RSI: 84.51 | MACD: 47.1504 | Signal: 33.61 | Hist: 13.5404 | Cross: NONE | Pos: NONE | Bal: $82.91
+2026-04-05 21:38:13,588 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:39:20,819 [INFO] 📊 Price: $67,635.70 | RSI: 86.2 | MACD: 55.7271 | Signal: 38.0945 | Hist: 17.6325 | Cross: NONE | Pos: NONE | Bal: $82.92
+2026-04-05 21:39:20,823 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:40:22,383 [INFO] 📊 Price: $67,655.30 | RSI: 86.22 | MACD: 64.6393 | Signal: 43.7111 | Hist: 20.9283 | Cross: NONE | Pos: NONE | Bal: $82.94
+2026-04-05 21:40:22,383 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:41:24,430 [INFO] 📊 Price: $67,625.60 | RSI: 76.83 | MACD: 64.7865 | Signal: 47.4655 | Hist: 17.321 | Cross: NONE | Pos: NONE | Bal: $82.91
+2026-04-05 21:41:24,430 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:42:26,067 [INFO] 📊 Price: $67,625.40 | RSI: 76.79 | MACD: 66.3973 | Signal: 51.2503 | Hist: 15.147 | Cross: NONE | Pos: NONE | Bal: $82.91
+2026-04-05 21:42:26,082 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:43:27,884 [INFO] 📊 Price: $67,579.70 | RSI: 68.89 | MACD: 63.3313 | Signal: 53.4344 | Hist: 9.8969 | Cross: NONE | Pos: NONE | Bal: $82.85
+2026-04-05 21:43:27,899 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:44:29,752 [INFO] 📊 Price: $67,527.90 | RSI: 59.26 | MACD: 55.5743 | Signal: 53.422 | Hist: 2.1523 | Cross: NONE | Pos: NONE | Bal: $82.81
+2026-04-05 21:44:29,752 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.26)
+2026-04-05 21:45:32,078 [INFO] 📊 Price: $67,513.50 | RSI: 53.05 | MACD: 46.6869 | Signal: 51.7622 | Hist: -5.0753 | Cross: BEARISH | Pos: NONE | Bal: $82.80
+2026-04-05 21:45:32,093 [INFO] ⏳ No signal — RSI neutral (53.05)
+2026-04-05 21:46:34,037 [INFO] 📊 Price: $67,587.50 | RSI: 64.08 | MACD: 48.0913 | Signal: 51.1249 | Hist: -3.0335 | Cross: NONE | Pos: NONE | Bal: $82.83
+2026-04-05 21:46:34,053 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:47:35,617 [INFO] 📊 Price: $67,589.80 | RSI: 62.88 | MACD: 46.8766 | Signal: 50.1745 | Hist: -3.298 | Cross: NONE | Pos: NONE | Bal: $82.88
+2026-04-05 21:47:35,617 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:48:37,228 [INFO] 📊 Price: $67,632.90 | RSI: 66.32 | MACD: 48.6238 | Signal: 49.93 | Hist: -1.3061 | Cross: NONE | Pos: NONE | Bal: $82.92
+2026-04-05 21:48:37,259 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:49:38,959 [INFO] 📊 Price: $67,610.90 | RSI: 63.76 | MACD: 47.7834 | Signal: 49.4583 | Hist: -1.6749 | Cross: NONE | Pos: NONE | Bal: $82.90
+2026-04-05 21:49:38,959 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:50:40,848 [INFO] 📊 Price: $67,610.10 | RSI: 64.25 | MACD: 49.0149 | Signal: 49.6761 | Hist: -0.6612 | Cross: NONE | Pos: NONE | Bal: $82.88
+2026-04-05 21:50:40,864 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:51:42,837 [INFO] 📊 Price: $67,600.10 | RSI: 61.26 | MACD: 45.8365 | Signal: 48.7307 | Hist: -2.8942 | Cross: NONE | Pos: NONE | Bal: $82.89
+2026-04-05 21:51:42,853 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:52:44,575 [INFO] 📊 Price: $67,591.70 | RSI: 59.79 | MACD: 43.2874 | Signal: 47.6687 | Hist: -4.3812 | Cross: NONE | Pos: NONE | Bal: $82.88
+2026-04-05 21:52:44,590 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.79)
+2026-04-05 21:53:46,314 [INFO] 📊 Price: $67,609.20 | RSI: 61.54 | MACD: 41.5118 | Signal: 46.3531 | Hist: -4.8413 | Cross: NONE | Pos: NONE | Bal: $82.90
+2026-04-05 21:53:46,330 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:54:48,039 [INFO] 📊 Price: $67,598.90 | RSI: 56.14 | MACD: 36.3601 | Signal: 44.1185 | Hist: -7.7584 | Cross: NONE | Pos: NONE | Bal: $82.89
+2026-04-05 21:54:48,039 [INFO] ⏳ No signal — no MACD cross, RSI neutral (56.14)
+2026-04-05 21:55:49,943 [INFO] 📊 Price: $67,613.70 | RSI: 62.41 | MACD: 37.8533 | Signal: 43.2509 | Hist: -5.3976 | Cross: NONE | Pos: NONE | Bal: $82.90
+2026-04-05 21:55:49,943 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:56:51,513 [INFO] 📊 Price: $67,611.50 | RSI: 61.49 | MACD: 36.7444 | Signal: 41.9943 | Hist: -5.2499 | Cross: NONE | Pos: NONE | Bal: $82.90
+2026-04-05 21:56:51,529 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:57:53,308 [INFO] 📊 Price: $67,616.20 | RSI: 63.18 | MACD: 36.2509 | Signal: 40.9299 | Hist: -4.679 | Cross: NONE | Pos: NONE | Bal: $82.90
+2026-04-05 21:57:53,308 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:58:55,066 [INFO] 📊 Price: $67,608.30 | RSI: 60.33 | MACD: 34.111 | Signal: 39.5506 | Hist: -5.4396 | Cross: NONE | Pos: NONE | Bal: $82.90
+2026-04-05 21:58:55,066 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 21:59:58,629 [INFO] 📊 Price: $67,636.70 | RSI: 61.91 | MACD: 32.6403 | Signal: 38.0611 | Hist: -5.4208 | Cross: NONE | Pos: NONE | Bal: $82.93
+2026-04-05 21:59:58,639 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:01:04,776 [INFO] 📊 Price: $67,595.60 | RSI: 54.72 | MACD: 30.5331 | Signal: 36.7504 | Hist: -6.2173 | Cross: NONE | Pos: NONE | Bal: $82.88
+2026-04-05 22:01:04,776 [INFO] ⏳ No signal — no MACD cross, RSI neutral (54.72)
+2026-04-05 22:02:13,655 [INFO] 📊 Price: $67,580.50 | RSI: 51.71 | MACD: 22.8296 | Signal: 32.306 | Hist: -9.4764 | Cross: NONE | Pos: NONE | Bal: $82.85
+2026-04-05 22:02:13,655 [INFO] ⏳ No signal — no MACD cross, RSI neutral (51.71)
+2026-04-05 22:03:16,475 [INFO] 📊 Price: $67,536.40 | RSI: 46.87 | MACD: 16.0815 | Signal: 28.7264 | Hist: -12.645 | Cross: NONE | Pos: NONE | Bal: $82.83
+2026-04-05 22:03:16,475 [INFO] ⏳ No signal — no MACD cross, RSI neutral (46.87)
+2026-04-05 22:04:19,347 [INFO] 📊 Price: $67,600.10 | RSI: 54.99 | MACD: 19.4903 | Signal: 27.5747 | Hist: -8.0844 | Cross: NONE | Pos: NONE | Bal: $82.88
+2026-04-05 22:04:19,363 [INFO] ⏳ No signal — no MACD cross, RSI neutral (54.99)
+2026-04-05 22:05:22,739 [INFO] 📊 Price: $67,586.20 | RSI: 52.02 | MACD: 16.1238 | Signal: 25.0666 | Hist: -8.9428 | Cross: NONE | Pos: NONE | Bal: $82.88
+2026-04-05 22:05:22,739 [INFO] ⏳ No signal — no MACD cross, RSI neutral (52.02)
+2026-04-05 22:06:25,034 [INFO] 📊 Price: $67,602.10 | RSI: 55.53 | MACD: 17.0141 | Signal: 23.6336 | Hist: -6.6196 | Cross: NONE | Pos: NONE | Bal: $82.89
+2026-04-05 22:06:25,049 [INFO] ⏳ No signal — no MACD cross, RSI neutral (55.53)
+2026-04-05 22:07:33,443 [INFO] 📊 Price: $67,587.80 | RSI: 52.93 | MACD: 14.4918 | Signal: 21.6109 | Hist: -7.119 | Cross: NONE | Pos: NONE | Bal: $82.88
+2026-04-05 22:07:33,458 [INFO] ⏳ No signal — no MACD cross, RSI neutral (52.93)
+2026-04-05 22:08:36,560 [INFO] 📊 Price: $67,588.20 | RSI: 51.95 | MACD: 12.5798 | Signal: 19.7394 | Hist: -7.1596 | Cross: NONE | Pos: NONE | Bal: $82.88
+2026-04-05 22:08:36,575 [INFO] ⏳ No signal — no MACD cross, RSI neutral (51.95)
+2026-04-05 22:09:39,162 [INFO] 📊 Price: $67,593.40 | RSI: 52.91 | MACD: 11.9924 | Signal: 18.2565 | Hist: -6.2641 | Cross: NONE | Pos: NONE | Bal: $82.88
+2026-04-05 22:09:39,177 [INFO] ⏳ No signal — no MACD cross, RSI neutral (52.91)
+2026-04-05 22:10:41,752 [INFO] 📊 Price: $67,601.90 | RSI: 54.6 | MACD: 11.7407 | Signal: 16.9536 | Hist: -5.2128 | Cross: NONE | Pos: NONE | Bal: $82.89
+2026-04-05 22:10:41,752 [INFO] ⏳ No signal — no MACD cross, RSI neutral (54.6)
+2026-04-05 22:11:44,220 [INFO] 📊 Price: $67,577.80 | RSI: 49.11 | MACD: 10.0264 | Signal: 15.6764 | Hist: -5.65 | Cross: NONE | Pos: NONE | Bal: $82.87
+2026-04-05 22:11:44,220 [INFO] ⏳ No signal — no MACD cross, RSI neutral (49.11)
+2026-04-05 22:12:47,098 [INFO] 📊 Price: $67,473.50 | RSI: 34.19 | MACD: -0.2744 | Signal: 12.4862 | Hist: -12.7606 | Cross: NONE | Pos: NONE | Bal: $82.76
+2026-04-05 22:12:47,113 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:13:50,182 [INFO] 📊 Price: $67,478.30 | RSI: 35.0 | MACD: -8.0428 | Signal: 8.3779 | Hist: -16.4207 | Cross: NONE | Pos: NONE | Bal: $82.77
+2026-04-05 22:13:50,214 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:15:10,177 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+2026-04-05 22:15:10,209 [INFO] ⏱️  Retrying in 5s...
+2026-04-05 22:15:26,378 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v2/ticker/price?symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-05 22:15:26,393 [INFO] ⏱️  Retrying in 10s...
+2026-04-05 22:15:46,072 [INFO] 📊 Price: $67,511.30 | RSI: 39.26 | MACD: -11.7907 | Signal: 4.4503 | Hist: -16.241 | Cross: NONE | Pos: NONE | Bal: $82.80
+2026-04-05 22:15:46,072 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:16:47,907 [INFO] 📊 Price: $67,507.20 | RSI: 40.41 | MACD: -17.0675 | Signal: -2.9747 | Hist: -14.0929 | Cross: NONE | Pos: NONE | Bal: $82.80
+2026-04-05 22:16:47,907 [INFO] ⏳ No signal — no MACD cross, RSI neutral (40.41)
+2026-04-05 22:17:49,556 [INFO] 📊 Price: $67,495.00 | RSI: 41.56 | MACD: -17.866 | Signal: -5.9197 | Hist: -11.9464 | Cross: NONE | Pos: NONE | Bal: $82.76
+2026-04-05 22:17:49,572 [INFO] ⏳ No signal — no MACD cross, RSI neutral (41.56)
+2026-04-05 22:18:51,221 [INFO] 📊 Price: $67,486.40 | RSI: 38.85 | MACD: -22.3451 | Signal: -9.6231 | Hist: -12.722 | Cross: NONE | Pos: NONE | Bal: $82.78
+2026-04-05 22:18:51,221 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:19:52,992 [INFO] 📊 Price: $67,466.70 | RSI: 36.12 | MACD: -25.1293 | Signal: -12.7241 | Hist: -12.4052 | Cross: NONE | Pos: NONE | Bal: $82.75
+2026-04-05 22:19:52,992 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:20:54,470 [INFO] 📊 Price: $67,476.80 | RSI: 37.55 | MACD: -25.8876 | Signal: -15.27 | Hist: -10.6176 | Cross: NONE | Pos: NONE | Bal: $82.77
+2026-04-05 22:20:54,485 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:21:56,057 [INFO] 📊 Price: $67,489.60 | RSI: 40.98 | MACD: -25.421 | Signal: -17.2849 | Hist: -8.1361 | Cross: NONE | Pos: NONE | Bal: $82.78
+2026-04-05 22:21:56,073 [INFO] ⏳ No signal — no MACD cross, RSI neutral (40.98)
+2026-04-05 22:22:57,912 [INFO] 📊 Price: $67,487.30 | RSI: 40.6 | MACD: -25.0161 | Signal: -18.831 | Hist: -6.1851 | Cross: NONE | Pos: NONE | Bal: $82.76
+2026-04-05 22:22:57,912 [INFO] ⏳ No signal — no MACD cross, RSI neutral (40.6)
+2026-04-05 22:24:07,919 [INFO] 📊 Price: $67,456.70 | RSI: 36.3 | MACD: -27.1944 | Signal: -20.6354 | Hist: -6.559 | Cross: NONE | Pos: NONE | Bal: $82.75
+2026-04-05 22:24:08,082 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:25:10,457 [INFO] 📊 Price: $67,459.40 | RSI: 37.37 | MACD: -28.2913 | Signal: -23.3855 | Hist: -4.9058 | Cross: NONE | Pos: NONE | Bal: $82.75
+2026-04-05 22:25:10,504 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:26:12,716 [INFO] 📊 Price: $67,417.20 | RSI: 31.69 | MACD: -32.6958 | Signal: -25.6713 | Hist: -7.0245 | Cross: NONE | Pos: NONE | Bal: $82.69
+2026-04-05 22:26:12,791 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:27:14,410 [INFO] 📊 Price: $67,414.30 | RSI: 29.71 | MACD: -35.7825 | Signal: -27.8773 | Hist: -7.9052 | Cross: NONE | Pos: NONE | Bal: $82.70
+2026-04-05 22:27:14,426 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:28:16,365 [INFO] 📊 Price: $67,436.10 | RSI: 36.24 | MACD: -34.9388 | Signal: -29.2452 | Hist: -5.6936 | Cross: NONE | Pos: NONE | Bal: $82.73
+2026-04-05 22:28:16,622 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:29:18,776 [INFO] 📊 Price: $67,452.30 | RSI: 40.52 | MACD: -32.0869 | Signal: -29.6628 | Hist: -2.4241 | Cross: NONE | Pos: NONE | Bal: $82.74
+2026-04-05 22:29:18,792 [INFO] ⏳ No signal — no MACD cross, RSI neutral (40.52)
+2026-04-05 22:30:21,678 [INFO] 📊 Price: $67,449.70 | RSI: 41.02 | MACD: -29.9804 | Signal: -29.7071 | Hist: -0.2733 | Cross: NONE | Pos: NONE | Bal: $82.74
+2026-04-05 22:30:21,973 [INFO] ⏳ No signal — no MACD cross, RSI neutral (41.02)
+2026-04-05 22:31:24,582 [INFO] 📊 Price: $67,455.00 | RSI: 41.37 | MACD: -28.0516 | Signal: -29.3861 | Hist: 1.3345 | Cross: BULLISH | Pos: NONE | Bal: $82.74
+2026-04-05 22:31:24,590 [INFO] ⏳ No signal — RSI neutral (41.37)
+2026-04-05 22:32:26,389 [INFO] 📊 Price: $67,464.80 | RSI: 44.59 | MACD: -25.7684 | Signal: -28.7378 | Hist: 2.9694 | Cross: NONE | Pos: NONE | Bal: $82.75
+2026-04-05 22:32:26,405 [INFO] ⏳ No signal — no MACD cross, RSI neutral (44.59)
+2026-04-05 22:33:28,424 [INFO] 📊 Price: $67,452.60 | RSI: 41.65 | MACD: -24.5286 | Signal: -27.9469 | Hist: 3.4183 | Cross: NONE | Pos: NONE | Bal: $82.74
+2026-04-05 22:33:28,441 [INFO] ⏳ No signal — no MACD cross, RSI neutral (41.65)
+2026-04-05 22:34:32,829 [INFO] 📊 Price: $67,443.80 | RSI: 40.22 | MACD: -23.7887 | Signal: -27.164 | Hist: 3.3754 | Cross: NONE | Pos: NONE | Bal: $82.73
+2026-04-05 22:34:32,844 [INFO] ⏳ No signal — no MACD cross, RSI neutral (40.22)
+2026-04-05 22:35:35,349 [INFO] 📊 Price: $67,436.60 | RSI: 38.23 | MACD: -23.7008 | Signal: -26.5251 | Hist: 2.8244 | Cross: NONE | Pos: NONE | Bal: $82.73
+2026-04-05 22:35:35,349 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:36:37,255 [INFO] 📊 Price: $67,436.60 | RSI: 38.24 | MACD: -23.1054 | Signal: -25.8424 | Hist: 2.737 | Cross: NONE | Pos: NONE | Bal: $82.73
+2026-04-05 22:36:37,270 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:37:39,783 [INFO] 📊 Price: $67,449.80 | RSI: 43.02 | MACD: -21.3303 | Signal: -24.941 | Hist: 3.6107 | Cross: NONE | Pos: NONE | Bal: $82.74
+2026-04-05 22:37:39,783 [INFO] ⏳ No signal — no MACD cross, RSI neutral (43.02)
+2026-04-05 22:38:46,525 [INFO] 📊 Price: $67,434.50 | RSI: 39.92 | MACD: -20.6638 | Signal: -24.0858 | Hist: 3.422 | Cross: NONE | Pos: NONE | Bal: $82.72
+2026-04-05 22:38:46,532 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:39:50,731 [INFO] 📊 Price: $67,434.50 | RSI: 39.21 | MACD: -20.3439 | Signal: -23.3766 | Hist: 3.0327 | Cross: NONE | Pos: NONE | Bal: $82.72
+2026-04-05 22:39:50,939 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:40:52,925 [INFO] 📊 Price: $67,464.40 | RSI: 46.83 | MACD: -17.4467 | Signal: -22.0923 | Hist: 4.6456 | Cross: NONE | Pos: NONE | Bal: $82.75
+2026-04-05 22:40:52,941 [INFO] ⏳ No signal — no MACD cross, RSI neutral (46.83)
+2026-04-05 22:41:54,604 [INFO] 📊 Price: $67,463.70 | RSI: 49.93 | MACD: -13.9056 | Signal: -20.3085 | Hist: 6.4029 | Cross: NONE | Pos: NONE | Bal: $82.74
+2026-04-05 22:41:54,619 [INFO] ⏳ No signal — no MACD cross, RSI neutral (49.93)
+2026-04-05 22:43:02,704 [INFO] 📊 Price: $67,440.70 | RSI: 43.87 | MACD: -14.7986 | Signal: -19.4672 | Hist: 4.6685 | Cross: NONE | Pos: NONE | Bal: $82.73
+2026-04-05 22:43:02,957 [INFO] ⏳ No signal — no MACD cross, RSI neutral (43.87)
+2026-04-05 22:44:08,366 [INFO] 📊 Price: $67,434.50 | RSI: 37.58 | MACD: -16.2863 | Signal: -18.8323 | Hist: 2.5459 | Cross: NONE | Pos: NONE | Bal: $82.72
+2026-04-05 22:44:10,524 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:45:12,949 [INFO] 📊 Price: $67,447.00 | RSI: 46.57 | MACD: -11.5266 | Signal: -16.2131 | Hist: 4.6865 | Cross: NONE | Pos: NONE | Bal: $82.74
+2026-04-05 22:45:12,998 [INFO] ⏳ No signal — no MACD cross, RSI neutral (46.57)
+2026-04-05 22:46:18,967 [INFO] 📊 Price: $67,478.00 | RSI: 53.86 | MACD: -6.4064 | Signal: -13.8562 | Hist: 7.4497 | Cross: NONE | Pos: NONE | Bal: $82.77
+2026-04-05 22:46:18,992 [INFO] ⏳ No signal — no MACD cross, RSI neutral (53.86)
+2026-04-05 22:47:20,999 [INFO] 📊 Price: $67,495.10 | RSI: 58.18 | MACD: -0.8724 | Signal: -10.9214 | Hist: 10.049 | Cross: NONE | Pos: NONE | Bal: $82.78
+2026-04-05 22:47:20,999 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.18)
+2026-04-05 22:48:22,931 [INFO] 📊 Price: $67,483.60 | RSI: 54.1 | MACD: 0.6539 | Signal: -8.6083 | Hist: 9.2622 | Cross: NONE | Pos: NONE | Bal: $82.77
+2026-04-05 22:48:22,946 [INFO] ⏳ No signal — no MACD cross, RSI neutral (54.1)
+2026-04-05 22:49:25,660 [INFO] 📊 Price: $67,507.90 | RSI: 59.93 | MACD: 4.5208 | Signal: -5.7975 | Hist: 10.3184 | Cross: NONE | Pos: NONE | Bal: $82.80
+2026-04-05 22:49:27,201 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.93)
+2026-04-05 22:50:29,033 [INFO] 📊 Price: $67,521.60 | RSI: 60.34 | MACD: 9.4759 | Signal: -2.3584 | Hist: 11.8343 | Cross: NONE | Pos: NONE | Bal: $82.81
+2026-04-05 22:50:29,049 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:51:39,422 [INFO] 📊 Price: $67,566.00 | RSI: 69.72 | MACD: 17.2872 | Signal: 2.0581 | Hist: 15.2291 | Cross: NONE | Pos: NONE | Bal: $82.85
+2026-04-05 22:51:40,278 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:52:43,573 [INFO] 📊 Price: $67,566.90 | RSI: 69.73 | MACD: 20.8571 | Signal: 5.8217 | Hist: 15.0354 | Cross: NONE | Pos: NONE | Bal: $82.85
+2026-04-05 22:52:44,093 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:53:47,459 [INFO] 📊 Price: $67,579.30 | RSI: 61.15 | MACD: 31.2042 | Signal: 12.2333 | Hist: 18.9708 | Cross: NONE | Pos: NONE | Bal: $82.86
+2026-04-05 22:53:47,493 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:54:49,914 [INFO] 📊 Price: $67,600.40 | RSI: 64.23 | MACD: 35.0572 | Signal: 17.0508 | Hist: 18.0064 | Cross: NONE | Pos: NONE | Bal: $82.89
+2026-04-05 22:54:49,961 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:55:52,680 [INFO] 📊 Price: $67,605.70 | RSI: 64.88 | MACD: 36.8618 | Signal: 20.9404 | Hist: 15.9214 | Cross: NONE | Pos: NONE | Bal: $82.89
+2026-04-05 22:55:52,801 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:56:55,526 [INFO] 📊 Price: $67,608.10 | RSI: 64.72 | MACD: 37.6989 | Signal: 24.2159 | Hist: 13.483 | Cross: NONE | Pos: NONE | Bal: $82.90
+2026-04-05 22:56:55,578 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 22:58:01,701 [INFO] 📊 Price: $67,558.20 | RSI: 56.79 | MACD: 34.625 | Signal: 26.2009 | Hist: 8.4241 | Cross: NONE | Pos: NONE | Bal: $82.85
+2026-04-05 22:58:02,004 [INFO] ⏳ No signal — no MACD cross, RSI neutral (56.79)
+2026-04-05 22:59:09,803 [INFO] 📊 Price: $67,500.00 | RSI: 51.07 | MACD: 29.0646 | Signal: 26.646 | Hist: 2.4186 | Cross: NONE | Pos: NONE | Bal: $82.78
+2026-04-05 22:59:10,036 [INFO] ⏳ No signal — no MACD cross, RSI neutral (51.07)
+2026-04-05 23:00:33,800 [INFO] 📊 Price: $67,513.10 | RSI: 50.37 | MACD: 20.1767 | Signal: 24.8884 | Hist: -4.7117 | Cross: NONE | Pos: NONE | Bal: $82.79
+2026-04-05 23:00:34,372 [INFO] ⏳ No signal — no MACD cross, RSI neutral (50.37)
+2026-04-05 23:01:41,034 [INFO] 📊 Price: $67,616.10 | RSI: 58.09 | MACD: 18.6981 | Signal: 22.909 | Hist: -4.2108 | Cross: NONE | Pos: NONE | Bal: $82.91
+2026-04-05 23:01:41,956 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.09)
+2026-04-05 23:03:10,062 [INFO] 📊 Price: $67,699.50 | RSI: 65.1 | MACD: 29.3297 | Signal: 24.5542 | Hist: 4.7755 | Cross: BULLISH | Pos: NONE | Bal: $82.99
+2026-04-05 23:03:11,218 [INFO] ⏳ No signal — waiting
+2026-04-05 23:04:14,183 [INFO] 📊 Price: $67,698.40 | RSI: 65.4 | MACD: 41.4056 | Signal: 29.8389 | Hist: 11.5667 | Cross: NONE | Pos: NONE | Bal: $82.97
+2026-04-05 23:04:14,323 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:05:16,486 [INFO] 📊 Price: $67,691.00 | RSI: 66.47 | MACD: 48.2791 | Signal: 33.9125 | Hist: 14.3666 | Cross: NONE | Pos: NONE | Bal: $82.98
+2026-04-05 23:05:16,503 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:06:19,278 [INFO] 📊 Price: $67,636.80 | RSI: 58.01 | MACD: 44.2358 | Signal: 35.5369 | Hist: 8.6988 | Cross: NONE | Pos: NONE | Bal: $82.91
+2026-04-05 23:06:19,378 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.01)
+2026-04-05 23:07:30,821 [INFO] 📊 Price: $67,662.60 | RSI: 59.72 | MACD: 44.5989 | Signal: 37.5212 | Hist: 7.0777 | Cross: NONE | Pos: NONE | Bal: $82.95
+2026-04-05 23:07:31,420 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.72)
+2026-04-05 23:08:36,764 [INFO] 📊 Price: $67,693.90 | RSI: 62.93 | MACD: 48.1331 | Signal: 40.0126 | Hist: 8.1205 | Cross: NONE | Pos: NONE | Bal: $82.97
+2026-04-05 23:08:38,283 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:09:42,782 [INFO] 📊 Price: $67,675.60 | RSI: 58.72 | MACD: 45.5696 | Signal: 41.0078 | Hist: 4.5618 | Cross: NONE | Pos: NONE | Bal: $82.96
+2026-04-05 23:09:42,817 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.72)
+2026-04-05 23:10:46,950 [INFO] 📊 Price: $67,565.90 | RSI: 47.82 | MACD: 38.4222 | Signal: 40.8125 | Hist: -2.3904 | Cross: BEARISH | Pos: NONE | Bal: $82.85
+2026-04-05 23:10:47,011 [INFO] ⏳ No signal — RSI neutral (47.82)
+2026-04-05 23:11:56,204 [INFO] 📊 Price: $67,480.90 | RSI: 39.18 | MACD: 20.494 | Signal: 36.2512 | Hist: -15.7572 | Cross: NONE | Pos: NONE | Bal: $82.77
+2026-04-05 23:11:56,441 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:13:01,187 [INFO] 📊 Price: $67,496.00 | RSI: 38.84 | MACD: 7.6865 | Signal: 30.4376 | Hist: -22.7511 | Cross: NONE | Pos: NONE | Bal: $82.78
+2026-04-05 23:13:01,270 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:14:04,106 [INFO] 📊 Price: $67,480.00 | RSI: 40.01 | MACD: -0.1635 | Signal: 24.6031 | Hist: -24.7666 | Cross: NONE | Pos: NONE | Bal: $82.77
+2026-04-05 23:14:04,156 [INFO] ⏳ No signal — no MACD cross, RSI neutral (40.01)
+2026-04-05 23:15:07,008 [INFO] 📊 Price: $67,519.90 | RSI: 43.7 | MACD: -5.1896 | Signal: 18.6547 | Hist: -23.8443 | Cross: NONE | Pos: NONE | Bal: $82.81
+2026-04-05 23:15:07,024 [INFO] ⏳ No signal — no MACD cross, RSI neutral (43.7)
+2026-04-05 23:16:12,040 [INFO] 📊 Price: $67,530.70 | RSI: 46.81 | MACD: -9.3333 | Signal: 8.652 | Hist: -17.9853 | Cross: NONE | Pos: NONE | Bal: $82.82
+2026-04-05 23:16:12,124 [INFO] ⏳ No signal — no MACD cross, RSI neutral (46.81)
+2026-04-05 23:17:14,235 [INFO] 📊 Price: $67,561.20 | RSI: 50.81 | MACD: -6.3317 | Signal: 5.8455 | Hist: -12.1772 | Cross: NONE | Pos: NONE | Bal: $82.84
+2026-04-05 23:17:14,287 [INFO] ⏳ No signal — no MACD cross, RSI neutral (50.81)
+2026-04-05 23:18:17,305 [INFO] 📊 Price: $67,555.80 | RSI: 48.88 | MACD: -6.5029 | Signal: 3.3123 | Hist: -9.8152 | Cross: NONE | Pos: NONE | Bal: $82.84
+2026-04-05 23:18:17,341 [INFO] ⏳ No signal — no MACD cross, RSI neutral (48.88)
+2026-04-05 23:19:19,624 [INFO] 📊 Price: $67,483.10 | RSI: 41.77 | MACD: -14.7156 | Signal: -0.864 | Hist: -13.8516 | Cross: NONE | Pos: NONE | Bal: $82.77
+2026-04-05 23:19:19,640 [INFO] ⏳ No signal — no MACD cross, RSI neutral (41.77)
+2026-04-05 23:20:25,418 [INFO] 📊 Price: $67,461.30 | RSI: 40.17 | MACD: -20.4509 | Signal: -4.9462 | Hist: -15.5047 | Cross: NONE | Pos: NONE | Bal: $82.76
+2026-04-05 23:20:25,941 [INFO] ⏳ No signal — no MACD cross, RSI neutral (40.17)
+2026-04-05 23:21:28,103 [INFO] 📊 Price: $67,362.00 | RSI: 33.11 | MACD: -34.6194 | Signal: -11.5523 | Hist: -23.0671 | Cross: NONE | Pos: NONE | Bal: $82.64
+2026-04-05 23:21:28,118 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:22:30,653 [INFO] 📊 Price: $67,344.90 | RSI: 32.22 | MACD: -46.9738 | Signal: -19.1702 | Hist: -27.8036 | Cross: NONE | Pos: NONE | Bal: $82.63
+2026-04-05 23:22:30,763 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:23:34,381 [INFO] 📊 Price: $67,383.70 | RSI: 33.15 | MACD: -52.5967 | Signal: -25.558 | Hist: -27.0387 | Cross: NONE | Pos: NONE | Bal: $82.66
+2026-04-05 23:23:34,446 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:24:39,327 [INFO] 📊 Price: $67,386.90 | RSI: 37.95 | MACD: -51.5349 | Signal: -30.3042 | Hist: -21.2307 | Cross: NONE | Pos: NONE | Bal: $82.68
+2026-04-05 23:24:39,358 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:25:42,700 [INFO] 📊 Price: $67,330.00 | RSI: 33.97 | MACD: -56.6066 | Signal: -35.6158 | Hist: -20.9908 | Cross: NONE | Pos: NONE | Bal: $82.62
+2026-04-05 23:25:42,732 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:26:54,399 [INFO] 📊 Price: $67,327.90 | RSI: 33.39 | MACD: -60.413 | Signal: -40.5906 | Hist: -19.8224 | Cross: NONE | Pos: NONE | Bal: $82.62
+2026-04-05 23:26:55,348 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:27:58,467 [INFO] 📊 Price: $67,358.80 | RSI: 38.17 | MACD: -60.2265 | Signal: -44.5599 | Hist: -15.6666 | Cross: NONE | Pos: NONE | Bal: $82.65
+2026-04-05 23:27:58,550 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:29:02,188 [INFO] 📊 Price: $67,391.70 | RSI: 42.23 | MACD: -56.972 | Signal: -47.0975 | Hist: -9.8744 | Cross: NONE | Pos: NONE | Bal: $82.68
+2026-04-05 23:29:02,219 [INFO] ⏳ No signal — no MACD cross, RSI neutral (42.23)
+2026-04-05 23:30:07,655 [INFO] 📊 Price: $67,400.50 | RSI: 44.07 | MACD: -52.3394 | Signal: -48.1461 | Hist: -4.1933 | Cross: NONE | Pos: NONE | Bal: $82.69
+2026-04-05 23:30:07,769 [INFO] ⏳ No signal — no MACD cross, RSI neutral (44.07)
+2026-04-05 23:31:09,983 [INFO] 📊 Price: $67,415.40 | RSI: 45.26 | MACD: -45.2536 | Signal: -47.8296 | Hist: 2.576 | Cross: BULLISH | Pos: NONE | Bal: $82.70
+2026-04-05 23:31:10,000 [INFO] ⏳ No signal — RSI neutral (45.26)
+2026-04-05 23:32:11,743 [INFO] 📊 Price: $67,499.90 | RSI: 54.55 | MACD: -28.6901 | Signal: -42.8941 | Hist: 14.204 | Cross: NONE | Pos: NONE | Bal: $82.79
+2026-04-05 23:32:11,759 [INFO] ⏳ No signal — no MACD cross, RSI neutral (54.55)
+2026-04-05 23:33:15,403 [INFO] 📊 Price: $67,534.10 | RSI: 57.66 | MACD: -17.1653 | Signal: -37.5628 | Hist: 20.3975 | Cross: NONE | Pos: NONE | Bal: $82.82
+2026-04-05 23:33:15,465 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.66)
+2026-04-05 23:34:19,495 [INFO] 📊 Price: $67,485.40 | RSI: 51.08 | MACD: -15.8647 | Signal: -33.656 | Hist: 17.7913 | Cross: NONE | Pos: NONE | Bal: $82.77
+2026-04-05 23:34:19,578 [INFO] ⏳ No signal — no MACD cross, RSI neutral (51.08)
+2026-04-05 23:35:28,466 [INFO] 📊 Price: $67,473.20 | RSI: 49.37 | MACD: -13.2772 | Signal: -29.4871 | Hist: 16.2099 | Cross: NONE | Pos: NONE | Bal: $82.76
+2026-04-05 23:35:28,999 [INFO] ⏳ No signal — no MACD cross, RSI neutral (49.37)
+2026-04-05 23:36:32,387 [INFO] 📊 Price: $67,484.50 | RSI: 51.75 | MACD: -7.7891 | Signal: -24.7391 | Hist: 16.95 | Cross: NONE | Pos: NONE | Bal: $82.77
+2026-04-05 23:36:32,434 [INFO] ⏳ No signal — no MACD cross, RSI neutral (51.75)
+2026-04-05 23:37:35,978 [INFO] 📊 Price: $67,479.50 | RSI: 51.6 | MACD: -6.3745 | Signal: -21.2449 | Hist: 14.8704 | Cross: NONE | Pos: NONE | Bal: $82.77
+2026-04-05 23:37:36,166 [INFO] ⏳ No signal — no MACD cross, RSI neutral (51.6)
+2026-04-05 23:38:38,176 [INFO] 📊 Price: $67,584.00 | RSI: 62.37 | MACD: 7.0563 | Signal: -15.1135 | Hist: 22.1698 | Cross: NONE | Pos: NONE | Bal: $82.86
+2026-04-05 23:38:38,183 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:39:39,974 [INFO] 📊 Price: $67,586.10 | RSI: 61.93 | MACD: 12.6767 | Signal: -9.9511 | Hist: 22.6278 | Cross: NONE | Pos: NONE | Bal: $82.87
+2026-04-05 23:39:39,985 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:40:41,809 [INFO] 📊 Price: $67,608.20 | RSI: 62.37 | MACD: 23.0268 | Signal: -2.8386 | Hist: 25.8654 | Cross: NONE | Pos: NONE | Bal: $82.90
+2026-04-05 23:40:41,824 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:41:44,074 [INFO] 📊 Price: $67,627.90 | RSI: 63.86 | MACD: 29.8919 | Signal: 3.7954 | Hist: 26.0965 | Cross: NONE | Pos: NONE | Bal: $82.92
+2026-04-05 23:41:44,090 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:42:48,076 [INFO] 📊 Price: $67,646.70 | RSI: 66.23 | MACD: 38.6011 | Signal: 11.0908 | Hist: 27.5103 | Cross: NONE | Pos: NONE | Bal: $82.93
+2026-04-05 23:42:48,204 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:43:56,127 [INFO] 📊 Price: $67,684.40 | RSI: 68.2 | MACD: 45.938 | Signal: 18.1623 | Hist: 27.7757 | Cross: NONE | Pos: NONE | Bal: $82.95
+2026-04-05 23:43:56,211 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:44:58,863 [INFO] 📊 Price: $67,939.10 | RSI: 80.17 | MACD: 72.0043 | Signal: 29.2371 | Hist: 42.7672 | Cross: NONE | Pos: NONE | Bal: $83.22
+2026-04-05 23:44:58,896 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:46:00,931 [INFO] 📊 Price: $68,065.00 | RSI: 83.66 | MACD: 101.2434 | Signal: 43.7774 | Hist: 57.466 | Cross: NONE | Pos: NONE | Bal: $151.09
+2026-04-05 23:46:01,087 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:47:04,209 [INFO] 📊 Price: $68,050.40 | RSI: 84.6 | MACD: 126.1485 | Signal: 60.3448 | Hist: 65.8037 | Cross: NONE | Pos: NONE | Bal: $82.90
+2026-04-05 23:47:04,246 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:48:12,537 [INFO] 📊 Price: $67,987.30 | RSI: 74.01 | MACD: 136.0373 | Signal: 75.4834 | Hist: 60.5539 | Cross: NONE | Pos: NONE | Bal: $83.14
+2026-04-05 23:48:12,572 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:49:16,017 [INFO] 📊 Price: $68,068.40 | RSI: 75.9 | MACD: 149.69 | Signal: 100.9982 | Hist: 48.6918 | Cross: NONE | Pos: NONE | Bal: $82.96
+2026-04-05 23:49:16,066 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:50:19,611 [INFO] 📊 Price: $68,156.90 | RSI: 79.22 | MACD: 166.6559 | Signal: 114.9387 | Hist: 51.7172 | Cross: NONE | Pos: NONE | Bal: $82.63
+2026-04-05 23:50:19,661 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:51:28,766 [INFO] 📊 Price: $68,155.80 | RSI: 79.26 | MACD: 173.1049 | Signal: 126.3651 | Hist: 46.7398 | Cross: NONE | Pos: NONE | Bal: $82.68
+2026-04-05 23:51:30,026 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:52:37,210 [INFO] 📊 Price: $68,153.50 | RSI: 79.39 | MACD: 177.735 | Signal: 136.6761 | Hist: 41.0589 | Cross: NONE | Pos: NONE | Bal: $82.68
+2026-04-05 23:52:38,277 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:53:41,277 [INFO] 📊 Price: $68,068.20 | RSI: 70.06 | MACD: 169.2073 | Signal: 142.5717 | Hist: 26.6356 | Cross: NONE | Pos: NONE | Bal: $82.96
+2026-04-05 23:53:41,294 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:54:43,082 [INFO] 📊 Price: $68,081.90 | RSI: 69.38 | MACD: 164.5377 | Signal: 147.2434 | Hist: 17.2943 | Cross: NONE | Pos: NONE | Bal: $82.92
+2026-04-05 23:54:43,098 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:55:44,825 [INFO] 📊 Price: $68,087.60 | RSI: 68.29 | MACD: 156.4675 | Signal: 148.7191 | Hist: 7.7484 | Cross: NONE | Pos: NONE | Bal: $82.90
+2026-04-05 23:55:44,841 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:56:47,752 [INFO] 📊 Price: $68,166.50 | RSI: 71.61 | MACD: 156.0588 | Signal: 150.1845 | Hist: 5.8743 | Cross: NONE | Pos: NONE | Bal: $82.64
+2026-04-05 23:56:48,635 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:57:59,115 [INFO] 📊 Price: $68,298.90 | RSI: 76.23 | MACD: 166.3146 | Signal: 153.824 | Hist: 12.4906 | Cross: NONE | Pos: NONE | Bal: $82.22
+2026-04-05 23:58:01,792 [INFO] ⏳ No signal — no MACD cross
+2026-04-05 23:59:18,451 [INFO] 📊 Price: $68,339.00 | RSI: 75.82 | MACD: 174.8438 | Signal: 161.3412 | Hist: 13.5027 | Cross: NONE | Pos: NONE | Bal: $82.16
+2026-04-05 23:59:19,244 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:00:23,122 [INFO] 📊 Price: $68,342.30 | RSI: 77.99 | MACD: 179.9541 | Signal: 165.1481 | Hist: 14.8061 | Cross: NONE | Pos: NONE | Bal: $82.04
+2026-04-06 00:00:23,171 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:01:26,275 [INFO] 📊 Price: $68,430.90 | RSI: 79.07 | MACD: 185.2048 | Signal: 169.3381 | Hist: 15.8667 | Cross: NONE | Pos: NONE | Bal: $81.87
+2026-04-06 00:01:26,306 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:02:32,679 [INFO] 📊 Price: $68,289.90 | RSI: 69.37 | MACD: 174.9443 | Signal: 169.8581 | Hist: 5.0861 | Cross: NONE | Pos: NONE | Bal: $82.30
+2026-04-06 00:02:32,753 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:03:42,896 [INFO] 📊 Price: $68,234.80 | RSI: 65.54 | MACD: 164.6545 | Signal: 168.8021 | Hist: -4.1476 | Cross: BEARISH | Pos: NONE | Bal: $82.41
+2026-04-06 00:03:43,441 [INFO] ✅ SHORT signal | RSI: 65.54 + MACD bearish cross
+2026-04-06 00:03:44,212 [ERROR] ❌ Open SHORT failed: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-04-06 00:04:47,693 [INFO] 📊 Price: $68,291.30 | RSI: 68.06 | MACD: 158.8905 | Signal: 166.8544 | Hist: -7.9639 | Cross: NONE | Pos: NONE | Bal: $82.29
+2026-04-06 00:04:47,778 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:05:55,969 [INFO] 📊 Price: $68,407.20 | RSI: 71.09 | MACD: 156.7742 | Signal: 164.6363 | Hist: -7.8621 | Cross: NONE | Pos: NONE | Bal: $81.94
+2026-04-06 00:05:56,602 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:06:59,285 [INFO] 📊 Price: $68,440.60 | RSI: 73.72 | MACD: 161.5825 | Signal: 164.3941 | Hist: -2.8116 | Cross: NONE | Pos: NONE | Bal: $81.83
+2026-04-06 00:06:59,300 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:08:03,969 [INFO] 📊 Price: $68,469.40 | RSI: 74.57 | MACD: 163.0957 | Signal: 164.0539 | Hist: -0.9582 | Cross: NONE | Pos: NONE | Bal: $81.75
+2026-04-06 00:08:04,043 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:09:06,037 [INFO] 📊 Price: $68,400.90 | RSI: 72.52 | MACD: 161.6218 | Signal: 163.5988 | Hist: -1.977 | Cross: NONE | Pos: NONE | Bal: $81.94
+2026-04-06 00:09:06,037 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:10:07,633 [INFO] 📊 Price: $68,437.10 | RSI: 67.3 | MACD: 151.7279 | Signal: 160.6826 | Hist: -8.9548 | Cross: NONE | Pos: NONE | Bal: $81.84
+2026-04-06 00:10:07,635 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:11:09,233 [INFO] 📊 Price: $68,455.50 | RSI: 69.55 | MACD: 143.5053 | Signal: 155.1112 | Hist: -11.6058 | Cross: NONE | Pos: NONE | Bal: $81.81
+2026-04-06 00:11:09,233 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:12:11,103 [INFO] 📊 Price: $68,477.10 | RSI: 70.9 | MACD: 142.4321 | Signal: 152.8491 | Hist: -10.4169 | Cross: NONE | Pos: NONE | Bal: $81.73
+2026-04-06 00:12:11,135 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:13:13,204 [INFO] 📊 Price: $68,443.20 | RSI: 66.83 | MACD: 132.9313 | Signal: 148.2188 | Hist: -15.2875 | Cross: NONE | Pos: NONE | Bal: $81.84
+2026-04-06 00:13:13,234 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:14:14,864 [INFO] 📊 Price: $68,514.40 | RSI: 69.32 | MACD: 133.7518 | Signal: 145.8705 | Hist: -12.1187 | Cross: NONE | Pos: NONE | Bal: $81.62
+2026-04-06 00:14:14,864 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:15:16,598 [INFO] 📊 Price: $68,807.00 | RSI: 79.83 | MACD: 159.8917 | Signal: 149.7549 | Hist: 10.1368 | Cross: BULLISH | Pos: NONE | Bal: $80.68
+2026-04-06 00:15:16,614 [INFO] ⏳ No signal — waiting
+2026-04-06 00:16:22,976 [INFO] 📊 Price: $68,798.30 | RSI: 80.68 | MACD: 174.6579 | Signal: 154.4572 | Hist: 20.2007 | Cross: NONE | Pos: NONE | Bal: $80.64
+2026-04-06 00:16:23,197 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:17:25,687 [INFO] 📊 Price: $68,817.10 | RSI: 75.67 | MACD: 179.6917 | Signal: 159.3162 | Hist: 20.3754 | Cross: NONE | Pos: NONE | Bal: $80.72
+2026-04-06 00:17:25,724 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:18:27,263 [INFO] 📊 Price: $68,833.40 | RSI: 80.9 | MACD: 191.7842 | Signal: 166.5767 | Hist: 25.2074 | Cross: NONE | Pos: NONE | Bal: $80.63
+2026-04-06 00:18:27,399 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:19:30,408 [INFO] 📊 Price: $68,824.90 | RSI: 79.21 | MACD: 192.5343 | Signal: 171.4316 | Hist: 21.1026 | Cross: NONE | Pos: NONE | Bal: $80.68
+2026-04-06 00:19:30,463 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:20:32,828 [INFO] 📊 Price: $68,888.80 | RSI: 81.8 | MACD: 201.8385 | Signal: 177.8551 | Hist: 23.9834 | Cross: NONE | Pos: NONE | Bal: $80.37
+2026-04-06 00:20:32,848 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:21:34,418 [INFO] 📊 Price: $68,789.80 | RSI: 75.41 | MACD: 191.3949 | Signal: 179.4975 | Hist: 11.8974 | Cross: NONE | Pos: NONE | Bal: $80.79
+2026-04-06 00:21:34,418 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:22:36,462 [INFO] 📊 Price: $68,675.90 | RSI: 61.46 | MACD: 172.1115 | Signal: 177.4791 | Hist: -5.3675 | Cross: BEARISH | Pos: NONE | Bal: $81.15
+2026-04-06 00:22:36,478 [INFO] ✅ SHORT signal | RSI: 61.46 + MACD bearish cross
+2026-04-06 00:22:36,947 [ERROR] ❌ Open SHORT failed: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-04-06 00:23:38,521 [INFO] 📊 Price: $68,699.50 | RSI: 63.75 | MACD: 163.5251 | Signal: 175.4092 | Hist: -11.8841 | Cross: NONE | Pos: NONE | Bal: $81.06
+2026-04-06 00:23:38,536 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:24:40,018 [INFO] 📊 Price: $68,695.60 | RSI: 63.03 | MACD: 150.8534 | Signal: 170.503 | Hist: -19.6497 | Cross: NONE | Pos: NONE | Bal: $81.08
+2026-04-06 00:24:40,034 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:25:42,102 [INFO] 📊 Price: $68,757.70 | RSI: 67.01 | MACD: 146.298 | Signal: 166.0309 | Hist: -19.7328 | Cross: NONE | Pos: NONE | Bal: $80.88
+2026-04-06 00:25:42,102 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:26:43,557 [INFO] 📊 Price: $68,842.00 | RSI: 71.14 | MACD: 147.1849 | Signal: 162.4633 | Hist: -15.2785 | Cross: NONE | Pos: NONE | Bal: $80.63
+2026-04-06 00:26:43,557 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:27:45,259 [INFO] 📊 Price: $68,845.00 | RSI: 70.9 | MACD: 143.0904 | Signal: 158.2661 | Hist: -15.1756 | Cross: NONE | Pos: NONE | Bal: $80.63
+2026-04-06 00:27:45,274 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:28:47,012 [INFO] 📊 Price: $68,820.10 | RSI: 67.76 | MACD: 138.1111 | Signal: 154.2895 | Hist: -16.1784 | Cross: NONE | Pos: NONE | Bal: $80.71
+2026-04-06 00:28:47,441 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:31:06,549 [INFO] 📊 Price: $68,837.20 | RSI: 66.95 | MACD: 125.4991 | Signal: 144.4184 | Hist: -18.9194 | Cross: NONE | Pos: NONE | Bal: $80.65
+2026-04-06 00:31:06,565 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:32:08,343 [INFO] 📊 Price: $69,081.60 | RSI: 68.1 | MACD: 123.3613 | Signal: 140.238 | Hist: -16.8767 | Cross: NONE | Pos: NONE | Bal: $79.97
+2026-04-06 00:32:08,358 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:33:09,980 [INFO] 📊 Price: $68,995.40 | RSI: 71.41 | MACD: 138.3019 | Signal: 139.2236 | Hist: -0.9217 | Cross: NONE | Pos: NONE | Bal: $80.13
+2026-04-06 00:33:09,995 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:34:11,706 [INFO] 📊 Price: $68,994.20 | RSI: 71.99 | MACD: 141.3531 | Signal: 139.9582 | Hist: 1.3949 | Cross: NONE | Pos: NONE | Bal: $80.16
+2026-04-06 00:34:11,706 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:35:13,333 [INFO] 📊 Price: $69,016.10 | RSI: 73.77 | MACD: 142.9044 | Signal: 140.753 | Hist: 2.1513 | Cross: NONE | Pos: NONE | Bal: $80.11
+2026-04-06 00:35:13,333 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:36:14,997 [INFO] 📊 Price: $69,045.50 | RSI: 74.86 | MACD: 144.2952 | Signal: 141.6223 | Hist: 2.6728 | Cross: NONE | Pos: NONE | Bal: $80.03
+2026-04-06 00:36:14,997 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:37:16,560 [INFO] 📊 Price: $69,090.90 | RSI: 76.75 | MACD: 146.9658 | Signal: 142.7803 | Hist: 4.1855 | Cross: NONE | Pos: NONE | Bal: $79.89
+2026-04-06 00:37:16,591 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:38:18,240 [INFO] 📊 Price: $68,968.10 | RSI: 67.26 | MACD: 134.724 | Signal: 140.296 | Hist: -5.5721 | Cross: NONE | Pos: NONE | Bal: $80.18
+2026-04-06 00:38:18,256 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:39:19,979 [INFO] 📊 Price: $68,960.60 | RSI: 63.98 | MACD: 124.2814 | Signal: 136.8249 | Hist: -12.5434 | Cross: NONE | Pos: NONE | Bal: $80.28
+2026-04-06 00:39:19,994 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:40:21,614 [INFO] 📊 Price: $69,001.40 | RSI: 67.59 | MACD: 120.5646 | Signal: 133.6817 | Hist: -13.1171 | Cross: NONE | Pos: NONE | Bal: $80.15
+2026-04-06 00:40:21,614 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:41:23,092 [INFO] 📊 Price: $68,985.80 | RSI: 64.92 | MACD: 112.555 | Signal: 129.2687 | Hist: -16.7137 | Cross: NONE | Pos: NONE | Bal: $80.21
+2026-04-06 00:41:23,092 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:42:24,766 [INFO] 📊 Price: $68,922.70 | RSI: 59.28 | MACD: 101.9374 | Signal: 123.7372 | Hist: -21.7998 | Cross: NONE | Pos: NONE | Bal: $80.39
+2026-04-06 00:42:24,781 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.28)
+2026-04-06 00:43:26,408 [INFO] 📊 Price: $68,867.70 | RSI: 52.68 | MACD: 82.9192 | Signal: 114.6136 | Hist: -31.6945 | Cross: NONE | Pos: NONE | Bal: $80.56
+2026-04-06 00:43:26,408 [INFO] ⏳ No signal — no MACD cross, RSI neutral (52.68)
+2026-04-06 00:44:28,035 [INFO] 📊 Price: $68,887.00 | RSI: 53.44 | MACD: 73.5072 | Signal: 106.5812 | Hist: -33.0741 | Cross: NONE | Pos: NONE | Bal: $80.50
+2026-04-06 00:44:28,051 [INFO] ⏳ No signal — no MACD cross, RSI neutral (53.44)
+2026-04-06 00:45:29,696 [INFO] 📊 Price: $68,963.40 | RSI: 59.89 | MACD: 73.7742 | Signal: 100.603 | Hist: -26.8289 | Cross: NONE | Pos: NONE | Bal: $80.27
+2026-04-06 00:45:29,696 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.89)
+2026-04-06 00:46:31,367 [INFO] 📊 Price: $68,956.90 | RSI: 59.05 | MACD: 70.6426 | Signal: 94.7479 | Hist: -24.1052 | Cross: NONE | Pos: NONE | Bal: $80.29
+2026-04-06 00:46:31,367 [INFO] ⏳ No signal — no MACD cross, RSI neutral (59.05)
+2026-04-06 00:47:33,260 [INFO] 📊 Price: $68,993.40 | RSI: 62.64 | MACD: 72.8857 | Signal: 90.9267 | Hist: -18.041 | Cross: NONE | Pos: NONE | Bal: $80.18
+2026-04-06 00:47:33,260 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:48:34,895 [INFO] 📊 Price: $68,997.60 | RSI: 61.34 | MACD: 68.991 | Signal: 86.1364 | Hist: -17.1454 | Cross: NONE | Pos: NONE | Bal: $80.17
+2026-04-06 00:48:34,911 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 00:49:36,675 [INFO] 📊 Price: $68,922.50 | RSI: 53.41 | MACD: 61.1456 | Signal: 81.1548 | Hist: -20.0092 | Cross: NONE | Pos: NONE | Bal: $80.39
+2026-04-06 00:49:36,675 [INFO] ⏳ No signal — no MACD cross, RSI neutral (53.41)
+2026-04-06 00:50:38,388 [INFO] 📊 Price: $68,923.60 | RSI: 53.41 | MACD: 53.4672 | Signal: 75.4461 | Hist: -21.9789 | Cross: NONE | Pos: NONE | Bal: $80.39
+2026-04-06 00:50:38,388 [INFO] ⏳ No signal — no MACD cross, RSI neutral (53.41)
+2026-04-06 00:51:40,026 [INFO] 📊 Price: $68,986.90 | RSI: 56.48 | MACD: 53.7938 | Signal: 71.6901 | Hist: -17.8963 | Cross: NONE | Pos: NONE | Bal: $80.21
+2026-04-06 00:51:40,026 [INFO] ⏳ No signal — no MACD cross, RSI neutral (56.48)
+2026-04-06 00:52:41,804 [INFO] 📊 Price: $68,975.10 | RSI: 57.71 | MACD: 52.4791 | Signal: 67.9796 | Hist: -15.5005 | Cross: NONE | Pos: NONE | Bal: $80.23
+2026-04-06 00:52:41,820 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.71)
+2026-04-06 00:53:43,375 [INFO] 📊 Price: $68,881.80 | RSI: 49.13 | MACD: 42.1093 | Signal: 62.6103 | Hist: -20.501 | Cross: NONE | Pos: NONE | Bal: $80.50
+2026-04-06 00:53:43,391 [INFO] ⏳ No signal — no MACD cross, RSI neutral (49.13)
+2026-04-06 00:54:45,122 [INFO] 📊 Price: $68,980.20 | RSI: 56.22 | MACD: 41.3289 | Signal: 58.3046 | Hist: -16.9757 | Cross: NONE | Pos: NONE | Bal: $80.21
+2026-04-06 00:54:45,122 [INFO] ⏳ No signal — no MACD cross, RSI neutral (56.22)
+2026-04-06 00:55:46,806 [INFO] 📊 Price: $69,003.80 | RSI: 58.01 | MACD: 41.8464 | Signal: 54.8842 | Hist: -13.0378 | Cross: NONE | Pos: NONE | Bal: $80.15
+2026-04-06 00:55:46,806 [INFO] ⏳ No signal — no MACD cross, RSI neutral (58.01)
+2026-04-06 00:56:48,559 [INFO] 📊 Price: $68,966.70 | RSI: 54.38 | MACD: 37.2955 | Signal: 51.0397 | Hist: -13.7442 | Cross: NONE | Pos: NONE | Bal: $80.27
+2026-04-06 00:56:48,559 [INFO] ⏳ No signal — no MACD cross, RSI neutral (54.38)
+2026-04-06 00:57:50,376 [INFO] 📊 Price: $68,982.60 | RSI: 54.94 | MACD: 37.2167 | Signal: 48.6117 | Hist: -11.395 | Cross: NONE | Pos: NONE | Bal: $80.21
+2026-04-06 00:57:50,376 [INFO] ⏳ No signal — no MACD cross, RSI neutral (54.94)
+2026-04-06 00:58:52,288 [INFO] 📊 Price: $68,993.20 | RSI: 56.43 | MACD: 37.3156 | Signal: 46.5758 | Hist: -9.2602 | Cross: NONE | Pos: NONE | Bal: $80.19
+2026-04-06 00:58:52,288 [INFO] ⏳ No signal — no MACD cross, RSI neutral (56.43)
+2026-04-06 00:59:53,861 [INFO] 📊 Price: $68,989.10 | RSI: 55.13 | MACD: 35.6514 | Signal: 44.4968 | Hist: -8.8454 | Cross: NONE | Pos: NONE | Bal: $80.19
+2026-04-06 00:59:53,876 [INFO] ⏳ No signal — no MACD cross, RSI neutral (55.13)
+2026-04-06 01:00:55,528 [INFO] 📊 Price: $69,078.80 | RSI: 67.71 | MACD: 47.2045 | Signal: 45.3371 | Hist: 1.8674 | Cross: BULLISH | Pos: NONE | Bal: $79.87
+2026-04-06 01:00:55,528 [INFO] ⏳ No signal — waiting
+2026-04-06 01:01:57,272 [INFO] 📊 Price: $69,510.00 | RSI: 80.15 | MACD: 78.442 | Signal: 51.6222 | Hist: 26.8197 | Cross: NONE | Pos: NONE | Bal: $78.66
+2026-04-06 01:01:57,287 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 01:02:59,161 [INFO] 📊 Price: $69,271.00 | RSI: 65.05 | MACD: 95.7026 | Signal: 61.263 | Hist: 34.4396 | Cross: NONE | Pos: NONE | Bal: $79.32
+2026-04-06 01:02:59,176 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 01:04:01,367 [INFO] 📊 Price: $69,299.50 | RSI: 64.78 | MACD: 104.3932 | Signal: 70.0065 | Hist: 34.3867 | Cross: NONE | Pos: NONE | Bal: $79.27
+2026-04-06 01:04:01,383 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 01:05:03,121 [INFO] 📊 Price: $69,372.70 | RSI: 64.08 | MACD: 108.6397 | Signal: 77.7332 | Hist: 30.9065 | Cross: NONE | Pos: NONE | Bal: $79.17
+2026-04-06 01:05:03,121 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 01:06:04,758 [INFO] 📊 Price: $69,434.60 | RSI: 69.94 | MACD: 125.1386 | Signal: 87.5985 | Hist: 37.5401 | Cross: NONE | Pos: NONE | Bal: $78.87
+2026-04-06 01:06:04,774 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 01:25:09,811 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+2026-04-06 01:25:09,827 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 01:25:14,892 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=1m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 01:25:14,892 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 04:25:25,492 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=1m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 04:25:25,648 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 09:04:11,130 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=1m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 09:04:11,835 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 09:04:52,268 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=1m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 09:04:52,283 [ERROR] ❌ All 5 attempts failed. Skipping this cycle.
+2026-04-06 09:04:52,299 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 303, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 142, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 95, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 09:04:52,393 [INFO] ⏱️  Waiting 30s before retrying...
+2026-04-06 09:06:22,479 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=1m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 09:06:22,489 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 09:06:27,513 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=1m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 09:06:27,513 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 09:06:37,560 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=1m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 09:06:37,560 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 09:07:02,729 [ERROR] ❌ Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 154.161.184.39
+2026-04-06 09:07:02,729 [INFO] ⏱️  Waiting 5s before next cycle...
+2026-04-06 09:08:09,607 [ERROR] ❌ Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 154.161.184.39
+2026-04-06 09:08:09,617 [INFO] ⏱️  Waiting 5s before next cycle...
+2026-04-06 09:09:16,463 [INFO] 📊 Price: $69,142.00 | RSI: 57.37 | MACD: 22.4997 | Signal: 27.0101 | Hist: -4.5104 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 09:09:16,473 [INFO] ⏳ No signal — no MACD cross, RSI neutral (57.37)
+2026-04-06 09:10:24,968 [INFO] 📊 Price: $69,131.10 | RSI: 55.6 | MACD: 22.0762 | Signal: 26.0106 | Hist: -3.9345 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 09:10:25,164 [INFO] ⏳ No signal — no MACD cross, RSI neutral (55.6)
+2026-04-06 09:11:28,207 [INFO] 📊 Price: $69,162.10 | RSI: 60.39 | MACD: 26.2669 | Signal: 26.4169 | Hist: -0.1499 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 09:11:28,241 [INFO] ⏳ No signal — no MACD cross
+2026-04-06 09:12:30,016 [INFO] 📊 Price: $69,154.40 | RSI: 56.32 | MACD: 26.246 | Signal: 26.477 | Hist: -0.231 | Cross: BEARISH | Pos: NONE | Bal: $148.69
+2026-04-06 10:06:31,867 [INFO] ✅ MACD+RSI Bot initialized.
+2026-04-06 10:06:41,790 [INFO] ⚙️  BTCUSDT | Leverage: 2x
+2026-04-06 10:06:41,790 [INFO] 🚀 MACD+RSI Futures Bot started
+2026-04-06 10:06:42,254 [INFO] 📱 Telegram polling started.
+2026-04-06 10:06:49,025 [INFO] 📊 Price: $69,238.90 | RSI: 58.57 | MACD: 101.819 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 10:06:50,599 [INFO] ⏳ No signal | RSI: 58.57 | Cross: NONE
+2026-04-06 10:07:52,187 [INFO] 📊 Price: $69,243.40 | RSI: 59.15 | MACD: 103.2948 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 10:07:52,187 [INFO] ⏳ No signal | RSI: 59.15 | Cross: NONE
+2026-04-06 10:08:53,751 [INFO] 📊 Price: $69,251.70 | RSI: 59.38 | MACD: 103.9011 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 10:08:53,767 [INFO] ⏳ No signal | RSI: 59.38 | Cross: NONE
+2026-04-06 10:09:55,515 [INFO] 📊 Price: $69,296.40 | RSI: 60.07 | MACD: 105.7279 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 10:09:55,515 [INFO] ⏳ No signal | RSI: 60.07 | Cross: NONE
+2026-04-06 10:10:56,928 [INFO] 📊 Price: $69,421.00 | RSI: 64.25 | MACD: 118.4116 | Cross: BULLISH | Pos: NONE | Bal: $148.69
+2026-04-06 10:10:56,928 [INFO] ⏳ No signal | RSI: 64.25 | Cross: BULLISH
+2026-04-06 10:11:59,724 [INFO] 📊 Price: $69,435.60 | RSI: 64.63 | MACD: 119.7039 | Cross: BULLISH | Pos: NONE | Bal: $148.69
+2026-04-06 10:11:59,814 [INFO] ⏳ No signal | RSI: 64.63 | Cross: BULLISH
+2026-04-06 10:13:01,524 [INFO] 📊 Price: $69,521.70 | RSI: 65.98 | MACD: 124.5541 | Cross: BULLISH | Pos: NONE | Bal: $148.69
+2026-04-06 10:13:01,942 [INFO] ⏳ No signal | RSI: 65.98 | Cross: BULLISH
+2026-04-06 10:14:04,245 [INFO] 📊 Price: $69,519.30 | RSI: 66.18 | MACD: 125.3039 | Cross: BULLISH | Pos: NONE | Bal: $148.69
+2026-04-06 10:14:04,262 [INFO] ⏳ No signal | RSI: 66.18 | Cross: BULLISH
+2026-04-06 10:15:06,325 [INFO] 📊 Price: $69,639.50 | RSI: 68.64 | MACD: 158.5657 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 10:15:06,743 [INFO] ⏳ No signal | RSI: 68.64 | Cross: NONE
+2026-04-06 10:16:09,080 [INFO] 📊 Price: $69,722.50 | RSI: 69.71 | MACD: 163.0967 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 10:16:09,127 [INFO] ⏳ No signal | RSI: 69.71 | Cross: NONE
+2026-04-06 10:17:12,522 [INFO] 📊 Price: $69,803.40 | RSI: 71.58 | MACD: 171.8397 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 10:17:12,766 [INFO] ⏳ No signal | RSI: 71.58 | Cross: NONE
+2026-04-06 10:18:15,826 [INFO] 📊 Price: $69,794.10 | RSI: 71.77 | MACD: 172.7731 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 10:18:17,066 [INFO] ⏳ No signal | RSI: 71.77 | Cross: NONE
+2026-04-06 10:19:20,005 [INFO] 📊 Price: $69,906.00 | RSI: 72.72 | MACD: 177.7429 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 10:19:21,054 [INFO] ⏳ No signal | RSI: 72.72 | Cross: NONE
+2026-04-06 10:20:24,237 [INFO] 📊 Price: $69,894.00 | RSI: 72.9 | MACD: 178.7081 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 10:20:24,759 [INFO] ⏳ No signal | RSI: 72.9 | Cross: NONE
+2026-04-06 10:21:36,117 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+2026-04-06 10:21:36,172 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 10:21:41,325 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:21:41,328 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 10:21:51,338 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:21:51,348 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 10:22:11,356 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:22:11,365 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 10:22:51,395 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:22:51,426 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 10:22:51,446 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 10:22:51,594 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:24:21,636 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:24:21,655 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 10:24:26,751 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:24:26,845 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 10:24:36,861 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:24:36,864 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 10:24:56,877 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:24:56,880 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 10:25:37,037 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:25:37,400 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 10:25:37,752 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 10:25:37,805 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:27:07,826 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:27:07,836 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 10:27:13,079 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:27:13,318 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 10:27:23,342 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:27:23,344 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 10:27:43,353 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:27:43,355 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 10:28:23,399 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:28:23,420 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 10:28:23,436 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 10:28:23,487 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:29:53,514 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:29:53,531 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 10:29:58,547 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:29:58,555 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 10:30:08,563 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:30:08,567 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 10:30:28,575 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:30:28,580 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 10:31:08,595 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:31:08,605 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 10:31:08,609 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 10:31:08,628 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:32:38,661 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:32:38,673 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 10:32:43,689 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:32:43,690 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 10:32:53,711 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:32:53,728 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 10:33:13,740 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:33:13,742 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 10:33:53,777 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:33:53,798 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 10:33:53,812 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 10:33:53,854 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:35:23,884 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:35:23,902 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 10:35:28,923 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:35:28,926 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 10:35:38,944 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:35:38,946 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 10:35:58,961 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:35:58,964 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 10:36:38,989 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:36:38,998 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 10:36:39,003 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 10:36:39,036 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:38:09,047 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:38:09,052 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 10:38:14,072 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:38:14,075 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 10:38:24,093 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:38:24,097 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 10:38:44,120 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:38:44,128 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 10:39:24,154 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:39:24,173 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 10:39:24,180 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 10:39:24,208 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:40:54,242 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:40:54,252 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 10:40:59,283 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:40:59,284 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 10:41:09,306 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:41:09,309 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 10:41:29,322 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:41:29,324 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 10:42:09,360 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:42:09,366 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 10:42:09,368 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 10:42:09,385 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:43:39,418 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:43:39,424 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 10:43:44,442 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:43:44,446 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 10:43:54,465 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:43:54,472 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 10:44:14,495 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:44:14,499 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 10:44:54,519 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:44:54,524 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 10:44:54,529 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 10:44:54,551 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:46:24,576 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:46:24,587 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 10:46:29,607 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:46:29,608 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 10:46:39,621 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:46:39,623 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 10:46:59,642 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:46:59,644 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 10:47:39,668 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:47:39,676 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 10:47:39,686 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 10:47:39,722 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:49:09,755 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:49:09,774 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 10:49:14,791 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:49:14,793 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 10:49:24,807 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:49:24,813 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 10:49:44,823 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:49:44,825 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 10:50:24,838 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 10:50:24,844 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 10:50:24,845 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 10:50:24,868 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 11:01:56,982 [WARNING] 🌐 Network error (attempt 1/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 11:01:57,975 [INFO] ⏱️  Retrying in 5s...
+2026-04-06 11:02:06,456 [WARNING] 🌐 Network error (attempt 2/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 11:02:08,978 [INFO] ⏱️  Retrying in 10s...
+2026-04-06 11:02:26,555 [WARNING] 🌐 Network error (attempt 3/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 11:02:28,317 [INFO] ⏱️  Retrying in 20s...
+2026-04-06 11:02:49,089 [WARNING] 🌐 Network error (attempt 4/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 11:02:49,950 [INFO] ⏱️  Retrying in 40s...
+2026-04-06 11:03:39,052 [WARNING] 🌐 Network error (attempt 5/5): HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?interval=15m&limit=150&symbol=BTCUSDT (Caused by NameResolutionError("HTTPSConnection(host='fapi.binance.com', port=443): Failed to resolve 'fapi.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 11:03:40,021 [ERROR] ❌ All 5 attempts failed.
+2026-04-06 11:03:42,549 [ERROR] ❌ Unexpected error: No active exception to reraise
+Traceback (most recent call last):
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 525, in run
+    df    = self.get_klines()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 185, in get_klines
+    klines = retry(
+             ^^^^^^
+  File "C:\Users\T0NY\Desktop\FRANKBOT\macd_rsi_bot.py", line 93, in retry
+    raise
+RuntimeError: No active exception to reraise
+2026-04-06 11:03:50,090 [WARNING] Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8560280027:AAEACt4Vqun_2y_z55dRCP0nJl9RVOi7VhQ/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-06 11:06:53,951 [INFO] ✅ MACD+RSI Bot initialized.
+2026-04-06 11:07:08,572 [ERROR] ❌ Setup failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 154.161.172.7
+2026-04-06 11:09:08,891 [INFO] ✅ MACD+RSI Bot initialized.
+2026-04-06 11:09:19,088 [INFO] ⚙️  BTCUSDT | Leverage: 2x
+2026-04-06 11:09:19,092 [INFO] 🚀 MACD+RSI Futures Bot started
+2026-04-06 11:09:19,577 [INFO] 📱 Telegram polling started.
+2026-04-06 11:09:25,113 [INFO] 📊 Price: $69,785.00 | RSI: 66.79 | MACD: 230.3491 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:09:25,125 [INFO] ⏳ No signal | RSI: 66.79 | Cross: NONE
+2026-04-06 11:09:47,752 [INFO] 📱 Telegram command: /help
+2026-04-06 11:10:00,589 [INFO] 📱 Telegram command: /set
+2026-04-06 11:10:10,922 [INFO] 📱 Telegram command: /help
+2026-04-06 11:10:26,696 [INFO] 📊 Price: $69,787.00 | RSI: 66.75 | MACD: 230.1816 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:10:26,696 [INFO] ⏳ No signal | RSI: 66.75 | Cross: NONE
+2026-04-06 11:10:41,376 [INFO] 📱 Telegram command: /set sl 1.0
+2026-04-06 11:11:23,241 [INFO] 📱 Telegram command: /set tp 1.0
+2026-04-06 11:11:28,346 [INFO] 📊 Price: $69,808.20 | RSI: 67.01 | MACD: 231.2904 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:11:28,346 [INFO] ⏳ No signal | RSI: 67.01 | Cross: NONE
+2026-04-06 11:11:53,435 [INFO] 📱 Telegram command: /set interval 1m
+2026-04-06 11:12:30,210 [INFO] 📊 Price: $69,787.10 | RSI: 53.29 | MACD: 6.4046 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:12:30,210 [INFO] ⏳ No signal | RSI: 53.29 | Cross: NONE
+2026-04-06 11:13:31,685 [INFO] 📊 Price: $69,813.40 | RSI: 56.26 | MACD: 8.7058 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:13:31,685 [INFO] ⏳ No signal | RSI: 56.26 | Cross: NONE
+2026-04-06 11:14:33,254 [INFO] 📊 Price: $69,790.60 | RSI: 50.15 | MACD: 7.5652 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:14:33,270 [INFO] ⏳ No signal | RSI: 50.15 | Cross: NONE
+2026-04-06 11:15:34,973 [INFO] 📊 Price: $69,795.80 | RSI: 53.02 | MACD: 8.4229 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:15:34,973 [INFO] ⏳ No signal | RSI: 53.02 | Cross: NONE
+2026-04-06 11:16:36,509 [INFO] 📊 Price: $69,770.30 | RSI: 48.9 | MACD: 6.51 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:16:36,556 [INFO] ⏳ No signal | RSI: 48.9 | Cross: NONE
+2026-04-06 11:17:38,121 [INFO] 📊 Price: $69,753.00 | RSI: 46.1 | MACD: 4.4485 | Cross: BEARISH | Pos: NONE | Bal: $148.69
+2026-04-06 11:17:38,121 [INFO] ⏳ No signal | RSI: 46.1 | Cross: BEARISH
+2026-04-06 11:18:39,674 [INFO] 📊 Price: $69,760.30 | RSI: 47.56 | MACD: 2.5318 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:18:39,690 [INFO] ⏳ No signal | RSI: 47.56 | Cross: NONE
+2026-04-06 11:19:41,326 [INFO] 📊 Price: $69,753.10 | RSI: 48.86 | MACD: 1.7779 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:19:41,326 [INFO] ⏳ No signal | RSI: 48.86 | Cross: NONE
+2026-04-06 11:20:42,983 [INFO] 📊 Price: $69,768.90 | RSI: 49.19 | MACD: 0.0429 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:20:42,983 [INFO] ⏳ No signal | RSI: 49.19 | Cross: NONE
+2026-04-06 11:21:44,586 [INFO] 📊 Price: $69,775.70 | RSI: 50.92 | MACD: 0.3351 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:21:44,586 [INFO] ⏳ No signal | RSI: 50.92 | Cross: NONE
+2026-04-06 11:22:46,229 [INFO] 📊 Price: $69,781.90 | RSI: 51.63 | MACD: 0.3004 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:22:46,244 [INFO] ⏳ No signal | RSI: 51.63 | Cross: NONE
+2026-04-06 11:23:47,823 [INFO] 📊 Price: $69,809.00 | RSI: 54.74 | MACD: 3.463 | Cross: BULLISH | Pos: NONE | Bal: $148.69
+2026-04-06 11:23:47,823 [INFO] ⏳ No signal | RSI: 54.74 | Cross: BULLISH
+2026-04-06 11:24:49,308 [INFO] 📊 Price: $69,796.30 | RSI: 51.51 | MACD: 5.8071 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:24:49,323 [INFO] ⏳ No signal | RSI: 51.51 | Cross: NONE
+2026-04-06 11:25:50,868 [INFO] 📊 Price: $69,757.80 | RSI: 46.2 | MACD: 3.3997 | Cross: BEARISH | Pos: NONE | Bal: $148.69
+2026-04-06 11:25:50,868 [INFO] ⏳ No signal | RSI: 46.2 | Cross: BEARISH
+2026-04-06 11:26:52,451 [INFO] 📊 Price: $69,717.70 | RSI: 41.23 | MACD: -2.6214 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:26:52,466 [INFO] ⏳ No signal | RSI: 41.23 | Cross: NONE
+2026-04-06 11:27:54,104 [INFO] 📊 Price: $69,724.40 | RSI: 41.7 | MACD: -6.5697 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:27:54,136 [INFO] ⏳ No signal | RSI: 41.7 | Cross: NONE
+2026-04-06 11:28:56,049 [INFO] 📊 Price: $69,715.00 | RSI: 42.4 | MACD: -8.8793 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:28:56,080 [INFO] ⏳ No signal | RSI: 42.4 | Cross: NONE
+2026-04-06 11:29:57,580 [INFO] 📊 Price: $69,732.10 | RSI: 45.79 | MACD: -10.1836 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:29:57,596 [INFO] ⏳ No signal | RSI: 45.79 | Cross: NONE
+2026-04-06 11:30:59,125 [INFO] 📊 Price: $69,746.60 | RSI: 43.92 | MACD: -12.0132 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:30:59,125 [INFO] ⏳ No signal | RSI: 43.92 | Cross: NONE
+2026-04-06 11:32:00,563 [INFO] 📊 Price: $69,774.00 | RSI: 51.86 | MACD: -8.0052 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:32:00,578 [INFO] ⏳ No signal | RSI: 51.86 | Cross: NONE
+2026-04-06 11:33:01,984 [INFO] 📊 Price: $69,793.60 | RSI: 56.45 | MACD: -3.4842 | Cross: BULLISH | Pos: NONE | Bal: $148.69
+2026-04-06 11:33:01,999 [INFO] ⏳ No signal | RSI: 56.45 | Cross: BULLISH
+2026-04-06 11:34:03,548 [INFO] 📊 Price: $69,787.90 | RSI: 53.11 | MACD: -1.6868 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:34:03,563 [INFO] ⏳ No signal | RSI: 53.11 | Cross: NONE
+2026-04-06 11:35:05,221 [INFO] 📊 Price: $69,786.30 | RSI: 53.26 | MACD: 0.0567 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:35:05,221 [INFO] ⏳ No signal | RSI: 53.26 | Cross: NONE
+2026-04-06 11:36:06,843 [INFO] 📊 Price: $69,766.80 | RSI: 49.8 | MACD: -0.6047 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:36:06,859 [INFO] ⏳ No signal | RSI: 49.8 | Cross: NONE
+2026-04-06 11:37:08,334 [INFO] 📊 Price: $69,866.80 | RSI: 64.77 | MACD: 17.5254 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:37:08,334 [INFO] ⏳ No signal | RSI: 64.77 | Cross: NONE
+2026-04-06 11:38:09,871 [INFO] 📊 Price: $69,878.40 | RSI: 61.75 | MACD: 16.0177 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:38:09,871 [INFO] ⏳ No signal | RSI: 61.75 | Cross: NONE
+2026-04-06 11:39:11,594 [INFO] 📊 Price: $69,872.00 | RSI: 61.75 | MACD: 23.9155 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:39:11,609 [INFO] ⏳ No signal | RSI: 61.75 | Cross: NONE
+2026-04-06 11:40:13,033 [INFO] 📊 Price: $69,846.80 | RSI: 57.97 | MACD: 24.3847 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:40:13,049 [INFO] ⏳ No signal | RSI: 57.97 | Cross: NONE
+2026-04-06 11:41:14,560 [INFO] 📊 Price: $69,829.20 | RSI: 54.49 | MACD: 21.5195 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:41:14,560 [INFO] ⏳ No signal | RSI: 54.49 | Cross: NONE
+2026-04-06 11:42:16,100 [INFO] 📊 Price: $69,848.90 | RSI: 57.25 | MACD: 23.6792 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:42:16,116 [INFO] ⏳ No signal | RSI: 57.25 | Cross: NONE
+2026-04-06 11:43:17,611 [INFO] 📊 Price: $69,855.50 | RSI: 57.5 | MACD: 23.4594 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:43:17,611 [INFO] ⏳ No signal | RSI: 57.5 | Cross: NONE
+2026-04-06 11:44:19,437 [INFO] 📊 Price: $69,834.70 | RSI: 54.76 | MACD: 21.7198 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:44:19,452 [INFO] ⏳ No signal | RSI: 54.76 | Cross: NONE
+2026-04-06 11:45:20,955 [INFO] 📊 Price: $69,842.80 | RSI: 55.34 | MACD: 21.6286 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:45:20,955 [INFO] ⏳ No signal | RSI: 55.34 | Cross: NONE
+2026-04-06 11:46:22,564 [INFO] 📊 Price: $69,711.80 | RSI: 54.85 | MACD: 19.9897 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:46:22,579 [INFO] ⏳ No signal | RSI: 54.85 | Cross: NONE
+2026-04-06 11:47:24,214 [INFO] 📊 Price: $69,699.60 | RSI: 33.99 | MACD: -2.3109 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:47:24,214 [INFO] ⏳ No signal | RSI: 33.99 | Cross: NONE
+2026-04-06 11:48:25,780 [INFO] 📊 Price: $69,749.80 | RSI: 43.36 | MACD: -2.1119 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:48:25,780 [INFO] ⏳ No signal | RSI: 43.36 | Cross: NONE
+2026-04-06 11:49:27,251 [INFO] 📊 Price: $69,779.10 | RSI: 47.44 | MACD: -1.992 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:49:27,251 [INFO] ⏳ No signal | RSI: 47.44 | Cross: NONE
+2026-04-06 11:50:28,704 [INFO] 📊 Price: $69,733.30 | RSI: 43.22 | MACD: -6.6875 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:50:28,704 [INFO] ⏳ No signal | RSI: 43.22 | Cross: NONE
+2026-04-06 11:51:34,113 [INFO] 📊 Price: $69,747.90 | RSI: 45.19 | MACD: -6.9923 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:51:34,636 [INFO] ⏳ No signal | RSI: 45.19 | Cross: NONE
+2026-04-06 11:52:39,494 [INFO] 📊 Price: $69,698.00 | RSI: 37.59 | MACD: -15.2458 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:52:39,767 [INFO] ⏳ No signal | RSI: 37.59 | Cross: NONE
+2026-04-06 11:53:43,272 [INFO] 📊 Price: $69,756.90 | RSI: 46.49 | MACD: -14.3999 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:53:43,315 [INFO] ⏳ No signal | RSI: 46.49 | Cross: NONE
+2026-04-06 11:54:47,253 [INFO] 📊 Price: $69,720.00 | RSI: 42.14 | MACD: -17.0838 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:54:48,060 [INFO] ⏳ No signal | RSI: 42.14 | Cross: NONE
+2026-04-06 11:55:50,560 [INFO] 📊 Price: $69,720.10 | RSI: 42.83 | MACD: -19.8648 | Cross: NONE | Pos: NONE | Bal: $148.69
+2026-04-06 11:55:50,654 [INFO] ⏳ No signal | RSI: 42.83 | Cross: NONE
